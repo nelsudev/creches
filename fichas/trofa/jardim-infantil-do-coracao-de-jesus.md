@@ -4,7 +4,7 @@
 - **Morada completa:** Rua Nossa Sra. de Lurdes, 436, 4745-497 São Mamede Coronado
 - **Contactos:** 229 821 237 · verabarrinhos@hotmail.com
 - **Público/Privado/Rede Solidária:** Rede Solidária (IPSS — consta na listagem oficial de IPSS do concelho da Trofa)
-- **Protocolos:** ? (a confirmar Creche Feliz por telefone/Segurança Social Direta)
+- **Protocolos:** Creche Feliz (automático — rede solidária, ver README)
 - **Berçário:** ? (resposta social listada como "Creche, Infantário" — confirmar idade mínima por telefone)
 - **Faixa etária coberta:** Creche + Infantário (0–3 e ~3–6, a confirmar split exato)
 - **Preço:** ?

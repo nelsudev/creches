@@ -8,11 +8,11 @@ Não editar diretamente sem seguir as regras em `CLAUDE.md` — cada entrada aqu
 
 | Nome | Localização | Preço | Protocolos | Público/Privado | Berçário | Faixa Etária | Já Visitámos | Ficha | Notas |
 |---|---|---|---|---|---|---|---|---|---|
-| Creche – Misericórdia da Trofa | São Romão do Coronado | ? | ? | Rede Solidária | Sim | 0m–3a (+ JI 3–6a associado) | Não | [ficha](fichas/trofa/creche-misericordia-da-trofa.md) | Continuidade com JI no mesmo local |
-| Creche Padre Joaquim Ribeiro (CSPSMB) | São Martinho (Bougado) | ? | ? | Rede Solidária | ? | Creche + Infantário | Não | [ficha](fichas/trofa/creche-padre-joaquim-ribeiro.md) | |
-| Jardim Infantil do Coração de Jesus | São Mamede Coronado | ? | ? | Rede Solidária | ? | Creche + Infantário | Não | [ficha](fichas/trofa/jardim-infantil-do-coracao-de-jesus.md) | |
-| Centro Infantil de Bougado | São Martinho (Bougado) | ? | ? | ? | ? | ? | Não | [ficha](fichas/trofa/centro-infantil-de-bougado.md) | Baixa confiança — confirmar entidade gestora |
-| Colégio da Trofa | São Martinho (Bougado) | ? | ? | Privado | ? | ? | Não | [ficha](fichas/trofa/colegio-da-trofa.md) | Confirmar se tem berçário |
+| Creche – Misericórdia da Trofa | São Romão do Coronado | ? | Creche Feliz | Rede Solidária | Sim | 0m–3a (+ JI 3–6a associado) | Não | [ficha](fichas/trofa/creche-misericordia-da-trofa.md) | Continuidade com JI no mesmo local |
+| Creche Padre Joaquim Ribeiro (CSPSMB) | São Martinho (Bougado) | ? | Creche Feliz | Rede Solidária | ? | Creche + Infantário | Não | [ficha](fichas/trofa/creche-padre-joaquim-ribeiro.md) | |
+| Jardim Infantil do Coração de Jesus | São Mamede Coronado | ? | Creche Feliz | Rede Solidária | ? | Creche + Infantário | Não | [ficha](fichas/trofa/jardim-infantil-do-coracao-de-jesus.md) | |
+| Centro Infantil de Bougado | São Martinho (Bougado) | ? | Creche Feliz | Rede Solidária | ? | Creche + pré-escolar | Não | [ficha](fichas/trofa/centro-infantil-de-bougado.md) | Associação Humanitária dos Bombeiros Voluntários da Trofa |
+| Colégio da Trofa | São Martinho (Bougado) | ? | Não aplicável | Privado | Não | Pré-escolar – secundário | Não | [ficha](fichas/trofa/colegio-da-trofa.md) | Não presta resposta de creche |
 
 ## Matosinhos
 

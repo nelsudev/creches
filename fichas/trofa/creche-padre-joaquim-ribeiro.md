@@ -4,7 +4,7 @@
 - **Morada completa:** Rua Papa João Paulo II, Complexo da Igreja Nova – Apartado 244, 4785-141 São Martinho (Bougado)
 - **Contactos:** 252 414 383 · ruiabreu@cspsmb.pt · [cspsmb.pt](https://cspsmb.pt/contactos/)
 - **Público/Privado/Rede Solidária:** Rede Solidária (IPSS — Centro Social e Paroquial de São Martinho do Bougado, fundado em 2007)
-- **Protocolos:** ? (a confirmar Creche Feliz por telefone/Segurança Social Direta)
+- **Protocolos:** Creche Feliz (automático — rede solidária, ver README)
 - **Berçário:** ? (entidade oferece "Creche, Infantário" — confirmar idade mínima de admissão por telefone)
 - **Faixa etária coberta:** Creche + Infantário (0–3 e ~3–6, a confirmar split exato)
 - **Preço:** ?

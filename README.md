@@ -56,6 +56,19 @@ Fontes consultadas em 2026-07-30:
 - [Calculadora de Comparticipação IPSS — Skolvi](https://www.skolvi.com/pt/calculadora-creche)
 - [Nota Rápida — Gratuitidade das Creches, planapp.gov.pt](https://www.planapp.gov.pt/wp-content/uploads/2023/02/NR_11_Creches_01FEV.pdf)
 
+## Quem está automaticamente no Creche Feliz
+
+Confirmado: creches da **rede social/solidária** (IPSS, Misericórdias, mutualidades, cooperativas e associações sem fins lucrativos com acordo de cooperação com a Segurança Social) estão **automaticamente** incluídas no Creche Feliz — não precisam de aderir voluntariamente, por já pertencerem à rede pública de apoios sociais. Só as **creches privadas com fins lucrativos** aderem voluntariamente à bolsa, e a Segurança Social verifica se cumprem requisitos (situação contributiva/fiscal regularizada, condições de instalação e funcionamento conformes).
+
+Não existe lista pública consultável da bolsa de privadas aderentes fora da app/portal Creche Feliz (que requer login). Prática a seguir nas fichas:
+
+- **Rede Solidária/IPSS** → registar Protocolos como `Creche Feliz (automático — rede solidária)`.
+- **Privado** → não assumir nem gratuitidade nem exclusão; registar `?` e confirmar por telefone ou na app Creche Feliz se a creche está na bolsa aderente.
+
+Fontes consultadas em 2026-07-30:
+- [Creche Feliz - Rede de Creches Gratuitas — seg-social.pt](https://www.garantiainfancia.gov.pt/-/creche-feliz-rede-de-creches-gratuitas)
+- [Aplicação Creche Feliz ajuda a encontrar vagas em creches gratuitas — gov.pt](https://www2.gov.pt/noticias/aplicacao-creche-feliz-ajuda-a-encontrar-vagas-em-creches-gratuitas)
+
 ## Estado atual
 
 Levantamento de fontes e regras concluído (issues #1, #2). Ainda sem dados de creches recolhidos — próximo passo é o levantamento por zona (Trofa, Matosinhos, Porto/Ramalde).
