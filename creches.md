@@ -32,7 +32,7 @@ Não editar diretamente sem seguir as regras em `CLAUDE.md` — cada entrada aqu
 | Centro Social de Leça do Balio (Manso) | Leça do Balio | ? | Creche Feliz | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/centro-social-de-leca-do-balio-manso.md) | |
 | Jardim de Infância Santa Cecília | Matosinhos | ? | Creche Feliz | Rede Solidária | Sim | 4m–3a (creche) + pré-escolar + CATL | Não | [ficha](fichas/matosinhos/jardim-de-infancia-santa-cecilia.md) | Ficha mais completa; morada+capacidade confirmadas |
 | Cooperativa Solinorte | São Mamede de Infesta | ? | Creche Feliz | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/cooperativa-solinorte.md) | Morada confirmada |
-| Cooperativa "As Sete Bicas" | ? | ? | Creche Feliz | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/cooperativa-sete-bicas.md) | Ficha incompleta — só nome confirmado |
+| Cooperativa "As Sete Bicas" | Senhora da Hora | ? | Creche Feliz | Rede Solidária | Sim | 0–3 anos | Não | [ficha](fichas/matosinhos/cooperativa-sete-bicas.md) | Pré-inscrição: jan.–abr.; capacidade a confirmar |
 
 ## Porto (Ramalde)
 
