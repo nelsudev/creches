@@ -18,18 +18,18 @@ Não editar diretamente sem seguir as regras em `CLAUDE.md` — cada entrada aqu
 
 | Nome | Localização | Preço | Protocolos | Público/Privado | Berçário | Faixa Etária | Já Visitámos | Ficha | Notas |
 |---|---|---|---|---|---|---|---|---|---|
-| ABA - Associação Baptista Ágape | ? | ? | Creche Feliz | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/aba-associacao-baptista-agape.md) | |
-| AMAS - Associação Mamedense de Apoio Social | São Mamede de Infesta (?) | ? | Creche Feliz | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/amas-associacao-mamedense-de-apoio-social.md) | |
-| ASDG - Associação Social e de Desenvolvimento de Guifões | Guifões | ? | Creche Feliz | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/asdg-associacao-social-e-de-desenvolvimento-de-guifoes.md) | |
-| Associação MAIS (Santiago/Custoias) | Santiago de Custóias | ? | Creche Feliz | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/associacao-mais-santiago-custoias.md) | |
-| Associação MAIS (Sol Poente) | Sol Poente | ? | Creche Feliz | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/associacao-mais-sol-poente.md) | |
-| Associação Recreativa Guerra Junqueiro | Lavra (?) | ? | Creche Feliz | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/associacao-recreativa-guerra-junqueiro.md) | |
+| ABA - Associação Baptista Ágape | Matosinhos | Rua das Austrálias, 96 | Creche Feliz | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/aba-associacao-baptista-agape.md) | |
+| AMAS - Associação Mamedense de Apoio Social | São Mamede de Infesta | Rua da Vilar, 359 | Creche Feliz | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/amas-associacao-mamedense-de-apoio-social.md) | |
+| ASDG - Associação Social e de Desenvolvimento de Guifões | Guifões | Avenida do Doutor Joaquim Neves dos Santos, 1143 | Creche Feliz | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/asdg-associacao-social-e-de-desenvolvimento-de-guifoes.md) | |
+| Associação MAIS (Santiago/Custoias) | Santiago de Custóias | Rua de Raúl Proença, 110 | Creche Feliz | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/associacao-mais-santiago-custoias.md) | |
+| Associação MAIS (Sol Poente) | Leça da Palmeira | Rua do Sol Poente, 370 | Creche Feliz | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/associacao-mais-sol-poente.md) | |
+| Associação Recreativa Guerra Junqueiro | Lavra | Rua Dr. José Domingues dos Santos, 590 | Creche Feliz | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/associacao-recreativa-guerra-junqueiro.md) | |
 | ASSUS | São Mamede de Infesta | ? | Creche Feliz | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/assus.md) | Morada confirmada |
-| Casa do Povo de Santa Cruz do Bispo | Santa Cruz do Bispo | ? | Creche Feliz | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/casa-do-povo-de-santa-cruz-do-bispo.md) | |
-| CCSSG - Centro Cultural de Solidariedade Social de Guifões | Guifões | ? | Creche Feliz | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/ccssg-centro-cultural-de-solidariedade-social-de-guifoes.md) | |
-| Centro Infantil de São Mamede de Infesta | São Mamede de Infesta | ? | Creche Feliz | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/centro-infantil-de-sao-mamede-de-infesta.md) | |
-| Centro Social de Leça do Balio (Recarei) | Leça do Balio | ? | Creche Feliz | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/centro-social-de-leca-do-balio-recarei.md) | |
-| Centro Social de Leça do Balio (Manso) | Leça do Balio | ? | Creche Feliz | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/centro-social-de-leca-do-balio-manso.md) | |
+| Casa do Povo de Santa Cruz do Bispo | Santa Cruz do Bispo | Rua de São Brás | Creche Feliz | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/casa-do-povo-de-santa-cruz-do-bispo.md) | |
+| CCSSG - Centro Cultural de Solidariedade Social de Guifões | Guifões | Rua das Acácias, 35 | Creche Feliz | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/ccssg-centro-cultural-de-solidariedade-social-de-guifoes.md) | |
+| Centro Infantil de São Mamede de Infesta | São Mamede de Infesta | Travessa Dr. Sé e Melo, 61 | Creche Feliz | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/centro-infantil-de-sao-mamede-de-infesta.md) | |
+| Centro Social de Leça do Balio (Recarei) | Leça do Balio | Rua de Recarei de Cima, 152 | Creche Feliz | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/centro-social-de-leca-do-balio-recarei.md) | |
+| Centro Social de Leça do Balio (Manso) | Leça do Balio | Rua Central do Manso, 111 | Creche Feliz | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/centro-social-de-leca-do-balio-manso.md) | |
 | Jardim de Infância Santa Cecília | Matosinhos | ? | Creche Feliz | Rede Solidária | Sim | 4m–3a (creche) + pré-escolar + CATL | Não | [ficha](fichas/matosinhos/jardim-de-infancia-santa-cecilia.md) | Ficha mais completa; morada+capacidade confirmadas |
 | Cooperativa Solinorte | São Mamede de Infesta | ? | Creche Feliz | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/cooperativa-solinorte.md) | Morada confirmada |
 | Cooperativa "As Sete Bicas" | Senhora da Hora | ? | Creche Feliz | Rede Solidária | Sim | 0–3 anos | Não | [ficha](fichas/matosinhos/cooperativa-sete-bicas.md) | Pré-inscrição: jan.–abr.; capacidade a confirmar |

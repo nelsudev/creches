@@ -1,7 +1,7 @@
 # Casa do Povo de Santa Cruz do Bispo
 
 - **Concelho/Freguesia:** Matosinhos / Santa Cruz do Bispo
-- **Morada completa:** ?
+- **Morada completa:** Rua de São Brás, 4455-849 Santa Cruz do Bispo
 - **Contactos:** 229 951 009 / 935 618 430 · cpovo.cruzbispo@mail.telepac.pt
 - **Público/Privado/Rede Solidária:** Rede Solidária (listada pela Câmara Municipal de Matosinhos na categoria "Instituições Sociais > Creches")
 - **Protocolos:** Creche Feliz (automático — rede solidária, ver README)
