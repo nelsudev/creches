@@ -8,12 +8,13 @@
 - **Berçário:** Sim — inaugurou creche em janeiro de 2022 com capacidade para 58 crianças, com salas de berçário para 4–12 meses, 12–24 meses e 24–36 meses
 - **Faixa etária coberta:** 4 meses – 3 anos (creche) + pré-escolar + CATL
 - **Preço:** ?
-- **Horário de funcionamento:** ?
-- **Capacidade / vagas (se conhecido):** 58 crianças (creche, desde jan. 2022)
+- **Horário de funcionamento:** 07:30–19:00
+- **Capacidade / vagas (se conhecido):** 65 lugares; 62 utentes registados (Carta Social, atualização de 2026-07-16; a diferença não confirma vagas abertas). A capacidade divulgada na inauguração de 2022 era 58.
 
 ## Fontes consultadas
 
 - [Jardim de Infância Santa Cecília — página institucional na Câmara Municipal de Matosinhos](https://www.cm-matosinhos.pt/servicos/intervencao-social/acao-social-e-saude/areas-de-intervencao/infancia-e-juventude/instituicoes-sociais/creches/poi/jardim-de-infancia-santa-cecilia-81) — consultado em 2026-07-30 — confirma morada, contactos, site.
+- [Jardim de Infância Santa Cecília — Carta Social](https://www.cartasocial.pt/resultados-da-pesquisa?_SocialLetterPortlet_WAR_cartasocialportlet__facesViewIdRender=%2Fviews%2FsocialLetter%2Flist%2Fview%2Fequipment%2Fequipment_detail.xhtml&_SocialLetterPortlet_WAR_cartasocialportlet_idEquipment=2701&p_p_col_count=1&p_p_col_id=column-1&p_p_id=SocialLetterPortlet_WAR_cartasocialportlet&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal) — consultado em 2026-07-30 — confirma natureza jurídica, capacidade e ocupação atuais e horário; dados da creche atualizados em 2026-07-16.
 - Pesquisa web (resultado agregado) sobre a inauguração da creche em jan. 2022 e a divisão de salas por faixa etária (4–12m, 12–24m, 24–36m), capacidade 58 — consultado em 2026-07-30 — confirmar diretamente com a instituição antes de decidir.
 
 ## Histórico de visitas
