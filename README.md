@@ -23,6 +23,23 @@ Objetivo: reunir para cada creche o essencial para decidir e contactar — nome,
 
 **Nota:** oficialmente "creche" cobre 0–3 anos; dos 3 aos 6 anos passa a ser pré-escolar (rede pública DGE ou jardim de infância privado/solidário). Não existe uma instituição única que cubra 0–6 anos — é preciso cruzar Carta Social (0–3) com a rede de jardins de infância (3–6).
 
+## Como se candidata a uma vaga (confirmado)
+
+Desde **abril de 2026**, o pedido de vaga em creches **abrangidas** pelo Creche Feliz (rede solidária/IPSS, públicas, e privadas aderentes à bolsa) é feito **exclusivamente** pelo Portal Segurança Social Direta ou pela app da Segurança Social — já não há candidatura direta à instituição para a vaga em si. O processo:
+
+1. Login na Segurança Social Direta (chave móvel digital ou NISS).
+2. Menu Família → Desenvolvimento da Criança → Creche Feliz.
+3. Pesquisar vagas por distrito/concelho/freguesia.
+4. Selecionar até 3 creches por ordem de preferência e submeter.
+5. Dentro da bolsa, a prioridade é para IPSS/rede solidária: só se pode usar uma creche **privada aderente** se não houver vaga numa IPSS da freguesia.
+
+Isto substitui pedidos diretos à instituição para creches abrangidas pela bolsa (públicas, IPSS/solidárias, privadas aderentes). **Exceção:** creches **privadas que não aderem** ao Creche Feliz (fora da bolsa) continuam a ter inscrição direta com a própria instituição — para essas, confirmar sempre com a creche o processo de inscrição.
+
+Fontes consultadas em 2026-07-30:
+- [Creches gratuitas: quem tem direito e como fazer candidatura — DECO Proteste](https://www.deco.proteste.pt/familia-consumo/bebes-criancas/noticias/creches-gratuitas-quem-tem-direito-como-fazer-candidatura)
+- [Programa Creche Feliz: como funciona, quem tem direito e como pedir — e-Konomista](https://www.e-konomista.pt/programa-creche-feliz/)
+- [Rede de Creches Gratuitas — seg-social.pt](https://www.seg-social.pt/rede-de-creches-gratuitas)
+
 ## Estado atual
 
-Ainda não há dados recolhidos — este repositório está na fase de definição de fontes e estrutura antes de começar o levantamento por zona.
+Levantamento de fontes e regras concluído (issues #1, #2). Ainda sem dados de creches recolhidos — próximo passo é o levantamento por zona (Trofa, Matosinhos, Porto/Ramalde).
