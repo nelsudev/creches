@@ -1,0 +1,278 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/nelsudev/creches/calendar/schema.json",
+  "title": "Calendário de decisões de creches",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "version",
+    "timezone",
+    "defaultRemindersDays",
+    "decisions"
+  ],
+  "properties": {
+    "version": {
+      "const": 1
+    },
+    "timezone": {
+      "const": "Europe/Lisbon"
+    },
+    "defaultRemindersDays": {
+      "$ref": "#/$defs/reminders"
+    },
+    "decisions": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/decision"
+      }
+    }
+  },
+  "$defs": {
+    "reminders": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "integer",
+        "minimum": 0
+      }
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["label", "url", "checkedAt"],
+      "properties": {
+        "label": {
+          "type": "string",
+          "minLength": 1
+        },
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https?://"
+        },
+        "checkedAt": {
+          "type": "string",
+          "format": "date"
+        }
+      }
+    },
+    "dateTiming": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["kind", "date"],
+      "properties": {
+        "kind": {
+          "const": "date"
+        },
+        "date": {
+          "type": "string",
+          "format": "date"
+        }
+      }
+    },
+    "rangeTiming": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["kind", "start", "end"],
+      "properties": {
+        "kind": {
+          "const": "range"
+        },
+        "start": {
+          "type": "string",
+          "format": "date"
+        },
+        "end": {
+          "type": "string",
+          "format": "date"
+        }
+      }
+    },
+    "recurrenceTiming": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["kind", "start", "rrule"],
+      "properties": {
+        "kind": {
+          "const": "recurrence"
+        },
+        "start": {
+          "type": "string",
+          "format": "date"
+        },
+        "rrule": {
+          "type": "string",
+          "pattern": "^FREQ=(DAILY|WEEKLY|MONTHLY|YEARLY)(;[A-Z]+=[A-Z0-9,;-]+)*$"
+        }
+      }
+    },
+    "unknownTiming": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["kind"],
+      "properties": {
+        "kind": {
+          "const": "unknown"
+        }
+      }
+    },
+    "decision": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "title",
+        "type",
+        "owner",
+        "timing",
+        "state",
+        "remindersDays",
+        "dependsOn",
+        "issueNumber",
+        "source",
+        "notes"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "type": {
+          "enum": [
+            "research",
+            "review",
+            "contact",
+            "visit",
+            "application",
+            "decision",
+            "document",
+            "payment",
+            "adaptation",
+            "renewal",
+            "closure"
+          ]
+        },
+        "owner": {
+          "enum": ["agent", "human"]
+        },
+        "timing": {
+          "oneOf": [
+            {
+              "$ref": "#/$defs/dateTiming"
+            },
+            {
+              "$ref": "#/$defs/rangeTiming"
+            },
+            {
+              "$ref": "#/$defs/recurrenceTiming"
+            },
+            {
+              "$ref": "#/$defs/unknownTiming"
+            }
+          ]
+        },
+        "state": {
+          "enum": [
+            "unknown",
+            "planned",
+            "completed",
+            "cancelled",
+            "blocked"
+          ]
+        },
+        "remindersDays": {
+          "$ref": "#/$defs/reminders"
+        },
+        "dependsOn": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+          }
+        },
+        "issueNumber": {
+          "oneOf": [
+            {
+              "type": "integer",
+              "minimum": 1
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "source": {
+          "oneOf": [
+            {
+              "$ref": "#/$defs/source"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "notes": {
+          "type": "string"
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "type": {
+                "enum": ["contact", "visit", "application", "decision"]
+              }
+            },
+            "required": ["type"]
+          },
+          "then": {
+            "properties": {
+              "owner": {
+                "const": "human"
+              }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "timing": {
+                "properties": {
+                  "kind": {
+                    "const": "unknown"
+                  }
+                },
+                "required": ["kind"]
+              }
+            },
+            "required": ["timing"]
+          },
+          "then": {
+            "properties": {
+              "state": {
+                "enum": ["unknown", "blocked"]
+              },
+              "remindersDays": {
+                "maxItems": 0
+              }
+            }
+          },
+          "else": {
+            "properties": {
+              "state": {
+                "not": {
+                  "const": "unknown"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

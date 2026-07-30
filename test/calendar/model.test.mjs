@@ -1,7 +1,11 @@
 import test from "node:test";
 import assert from "node:assert/strict";
+import { spawnSync } from "node:child_process";
+import { readFile } from "node:fs/promises";
 
 import {
+  CALENDAR_STATES,
+  CALENDAR_TYPES,
   assertValidCalendarDocument,
   validateCalendarDocument,
 } from "../../scripts/calendar/model.mjs";
@@ -225,4 +229,45 @@ test("rejeita estrutura desconhecida, duplicados e dependências inválidas", ()
       `${label}: ${errors.join(" | ")}`,
     );
   }
+});
+
+test("a fonte canónica e o JSON Schema correspondem ao validador", async () => {
+  const document = JSON.parse(
+    await readFile(new URL("../../calendar/decisions.json", import.meta.url)),
+  );
+  const schema = JSON.parse(
+    await readFile(new URL("../../calendar/schema.json", import.meta.url)),
+  );
+
+  assert.doesNotThrow(() => assertValidCalendarDocument(document));
+  assert.deepEqual(
+    schema.$defs.decision.properties.type.enum,
+    CALENDAR_TYPES,
+  );
+  assert.deepEqual(
+    schema.$defs.decision.properties.state.enum,
+    CALENDAR_STATES,
+  );
+  assert.equal(schema.additionalProperties, false);
+});
+
+test("o CLI valida a fonte canónica e explica um documento inválido", () => {
+  const valid = spawnSync(
+    process.execPath,
+    ["scripts/calendar/validate.mjs"],
+    { encoding: "utf8" },
+  );
+  assert.equal(valid.status, 0, valid.stderr);
+  assert.equal(valid.stdout.trim(), "Calendário válido: 0 decisões.");
+
+  const invalid = spawnSync(
+    process.execPath,
+    [
+      "scripts/calendar/validate.mjs",
+      "test/calendar/fixtures/invalid.json",
+    ],
+    { encoding: "utf8" },
+  );
+  assert.equal(invalid.status, 1);
+  assert.match(invalid.stderr, /timezone: deve ser Europe\/Lisbon/);
 });
