@@ -166,3 +166,13 @@ test("CLI valida a fonte e escreve os dois artefactos", async () => {
     await rm(outputDirectory, { recursive: true, force: true });
   }
 });
+
+test("Git preserva CRLF no artefacto ICS versionado", () => {
+  const result = spawnSync(
+    "git",
+    ["check-attr", "text", "--", "calendario.ics"],
+    { encoding: "utf8" },
+  );
+  assert.equal(result.status, 0, result.stderr);
+  assert.equal(result.stdout.trim(), "calendario.ics: text: unset");
+});
