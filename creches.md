@@ -9,7 +9,7 @@ Não editar diretamente sem seguir as regras em `CLAUDE.md` — cada entrada aqu
 | Nome | Localização | Preço | Protocolos | Público/Privado | Berçário | Faixa Etária | Já Visitámos | Ficha | Notas |
 |---|---|---|---|---|---|---|---|---|---|
 | Creche – Misericórdia da Trofa | São Romão do Coronado | ? | Creche Feliz | Rede Solidária | Sim | 0m–3a (+ JI 3–6a associado) | Não | [ficha](fichas/trofa/creche-misericordia-da-trofa.md) | Carta Social: 42 lugares / 43 utentes; divergência a esclarecer |
-| Creche Padre Joaquim Ribeiro (CSPSMB) | São Martinho (Bougado) | ? | Creche Feliz | Rede Solidária | ? | Creche + Infantário | Não | [ficha](fichas/trofa/creche-padre-joaquim-ribeiro.md) | Carta Social: 86 lugares / 86 utentes |
+| Creche Padre Joaquim Ribeiro (CSPSMB) | São Martinho (Bougado) | ? | Creche Feliz | Rede Solidária | Sim | Creche: berçário + salas 12–36 meses | Não | [ficha](fichas/trofa/creche-padre-joaquim-ribeiro.md) | Carta Social: 86 lugares / 86 utentes |
 | Jardim Infantil do Coração de Jesus | São Mamede Coronado | ? | Creche Feliz | Rede Solidária | ? | Creche + Infantário | Não | [ficha](fichas/trofa/jardim-infantil-do-coracao-de-jesus.md) | Não localizado na listagem atual de Creche da Carta Social; confirmar atividade |
 | Centro Infantil de Bougado | São Martinho (Bougado) | ? | Creche Feliz | Rede Solidária | ? | Creche + pré-escolar | Não | [ficha](fichas/trofa/centro-infantil-de-bougado.md) | Carta Social: 84 lugares / 67 utentes na creche |
 | Colégio da Trofa | São Martinho (Bougado) | ? | Não aplicável | Privado | Não | Pré-escolar – secundário | Não | [ficha](fichas/trofa/colegio-da-trofa.md) | Não presta resposta de creche |
@@ -46,12 +46,12 @@ Não editar diretamente sem seguir as regras em `CLAUDE.md` — cada entrada aqu
 | Sininho Creche Jardim de Infância | Ramalde | ? | ? | Privado | ? | Creche + JI | Não | [ficha](fichas/porto-ramalde/sininho-creche-jardim-de-infancia.md) | Não localizado na listagem atual; dados de 2018 são apenas históricos |
 | Externato S. João de Brito (EIPM) | Ramalde | ? | ? | Privado | ? | 0–3 anos | Não | [ficha](fichas/porto-ramalde/externato-s-joao-de-brito.md) | Carta Social: 40 lugares / 27 utentes |
 | Jardim de Infância Acácio Gomes (Solinorte) | Ramalde | ? | Creche Feliz | Rede Solidária | ? | Creche + JI | Não | [ficha](fichas/porto-ramalde/jardim-de-infancia-acacio-gomes.md) | Carta Social: 58 lugares / 57 utentes |
-| A Casa do Cuco (Laura Pinto, Lda.) | Ramalde | ? | ? | Privado | ? | 0–3 anos | Não | [ficha](fichas/porto-ramalde/a-casa-do-cuco.md) | Carta Social: 71 lugares / 55 utentes |
+| A Casa do Cuco (Laura Pinto, Lda.) | Ramalde | ? | ? | Privado | Sim | 4 meses–10 anos | Não | [ficha](fichas/porto-ramalde/a-casa-do-cuco.md) | Carta Social: 71 lugares / 55 utentes |
 | Centro Social Paroquial do Carvalhido | Ramalde (Carvalhido) | ? | Creche Feliz | Rede Solidária | ? | Creche + pré-escolar | Não | [ficha](fichas/porto-ramalde/centro-social-paroquial-do-carvalhido.md) | Carta Social: 20 lugares / 20 utentes |
 | Colégio de Nossa Senhora do Rosário | Ramalde | ? | Não aplicável | Privado | Não | Pré-escolar – secundário | Não | [ficha](fichas/porto-ramalde/colegio-de-nossa-senhora-do-rosario.md) | Não presta resposta de creche |
-| Colégio Espinheira Rio | Ramalde | ? | ? | Privado | ? | 0–3 anos | Não | [ficha](fichas/porto-ramalde/colegio-espinheira-rio.md) | Carta Social: 42 lugares / 42 utentes |
-| Os Ramaldinhos - ASAS de Ramalde | Ramalde | ? | Creche Feliz | Rede Solidária | ? | 3 meses – 3 anos | Não | [ficha](fichas/porto-ramalde/os-ramaldinhos-asas-de-ramalde.md) | Carta Social: 33 lugares / 20 utentes; horário atual não publicado |
-| Tickles – Creche, J. Infância e 1º Ciclo | Ramalde | ? | ? | Privado | ? | Creche + JI + 1º Ciclo | Não | [ficha](fichas/porto-ramalde/tickles.md) | Carta Social: 30 lugares / 30 utentes |
+| Colégio Espinheira Rio | Ramalde | ? | ? | Privado | Sim | 4 meses–2 anos | Não | [ficha](fichas/porto-ramalde/colegio-espinheira-rio.md) | Carta Social: 42 lugares / 42 utentes |
+| Os Ramaldinhos - ASAS de Ramalde | Ramalde | ? | Creche Feliz | Rede Solidária | Sim | 3 meses – 3 anos | Não | [ficha](fichas/porto-ramalde/os-ramaldinhos-asas-de-ramalde.md) | Carta Social: 33 lugares / 20 utentes; horário atual não publicado |
+| Tickles – Creche, J. Infância e 1º Ciclo | Ramalde | ? | ? | Privado | Sim | Creche + JI + 1º Ciclo | Não | [ficha](fichas/porto-ramalde/tickles.md) | Carta Social: 30 lugares / 30 utentes |
 
 ---
 
