@@ -3,8 +3,8 @@
 - **Concelho/Freguesia:** Porto / Ramalde
 - **Morada completa:** Rua Direita de Francos, 1024, Ramalde, Porto
 - **Contactos:** 228 311 451
-- **Público/Privado/Rede Solidária:** Rede Solidária (provável — "Patronato" é designação tipicamente associada a instituição religiosa/IPSS; a confirmar)
-- **Protocolos:** ?
+- **Público/Privado/Rede Solidária:** ? (natureza jurídica por confirmar; não inferir apenas pelo nome)
+- **Protocolos:** ? (confirmar natureza jurídica e adesão ao Creche Feliz)
 - **Berçário:** ?
 - **Faixa etária coberta:** ?
 - **Preço:** ?

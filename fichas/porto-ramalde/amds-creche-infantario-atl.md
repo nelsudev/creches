@@ -4,7 +4,7 @@
 - **Morada completa:** Rua dos Castelos, 2, Ramalde, Porto
 - **Contactos:** 228 300 496
 - **Público/Privado/Rede Solidária:** Privado (sufixo "Lda." indica sociedade comercial)
-- **Protocolos:** ?
+- **Protocolos:** ? (privado — confirmar adesão à bolsa Creche Feliz)
 - **Berçário:** ? (nome inclui "Creche" — verificar idade mínima)
 - **Faixa etária coberta:** Creche + Infantário + ATL
 - **Preço:** ? (privado — mensalidade fixa, perguntar o que inclui)
