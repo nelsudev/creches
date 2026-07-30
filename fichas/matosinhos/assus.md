@@ -4,7 +4,7 @@
 - **Morada completa:** Rua da Creche, 104 e 134A, 4465-112 São Mamede de Infesta
 - **Contactos:** 229 516 021 / 936 508 330 · geral@assus.pt · [assus.pt](http://assus.pt)
 - **Público/Privado/Rede Solidária:** Rede Solidária (listada pela Câmara Municipal de Matosinhos na categoria "Instituições Sociais > Creches")
-- **Protocolos:** ?
+- **Protocolos:** Creche Feliz (automático — rede solidária, ver README)
 - **Berçário:** ?
 - **Faixa etária coberta:** ?
 - **Preço:** ?

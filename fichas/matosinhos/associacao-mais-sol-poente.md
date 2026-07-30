@@ -4,7 +4,7 @@
 - **Morada completa:** ?
 - **Contactos:** 938 419 324 · creche.solpoente@gmail.com / associacao.mais@gmail.com
 - **Público/Privado/Rede Solidária:** Rede Solidária (listada pela Câmara Municipal de Matosinhos na categoria "Instituições Sociais > Creches")
-- **Protocolos:** ?
+- **Protocolos:** Creche Feliz (automático — rede solidária, ver README)
 - **Berçário:** ?
 - **Faixa etária coberta:** ?
 - **Preço:** ?

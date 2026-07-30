@@ -4,7 +4,7 @@
 - **Morada completa:** ?
 - **Contactos:** 938 419 314 · creche.santiagocustoias@gmail.com / associacao.mais@gmail.com
 - **Público/Privado/Rede Solidária:** Rede Solidária (listada pela Câmara Municipal de Matosinhos na categoria "Instituições Sociais > Creches")
-- **Protocolos:** ?
+- **Protocolos:** Creche Feliz (automático — rede solidária, ver README)
 - **Berçário:** ?
 - **Faixa etária coberta:** ?
 - **Preço:** ?

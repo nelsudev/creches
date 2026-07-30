@@ -4,7 +4,7 @@
 - **Morada completa:** ?
 - **Contactos:** 229 397 090 / 936 568 434 / 934 921 223 · ipss.aba@gmail.com
 - **Público/Privado/Rede Solidária:** Rede Solidária (listada pela Câmara Municipal de Matosinhos na categoria "Instituições Sociais > Creches")
-- **Protocolos:** ?
+- **Protocolos:** Creche Feliz (automático — rede solidária, ver README)
 - **Berçário:** ?
 - **Faixa etária coberta:** ?
 - **Preço:** ?

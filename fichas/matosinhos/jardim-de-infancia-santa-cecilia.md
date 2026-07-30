@@ -4,7 +4,7 @@
 - **Morada completa:** Rua de Álvaro Castelões, 515, 4450-042 Matosinhos
 - **Contactos:** 229 380 317 · direccaosantacecilia@gmail.com · [santaceciliamatosinhos.webnode.pt](http://santaceciliamatosinhos.webnode.pt/)
 - **Público/Privado/Rede Solidária:** Rede Solidária (Centro Paroquial de Matosinhos, fundado em 1973; listado pela Câmara Municipal de Matosinhos)
-- **Protocolos:** ? (a confirmar Creche Feliz)
+- **Protocolos:** Creche Feliz (automático — rede solidária, ver README)
 - **Berçário:** Sim — inaugurou creche em janeiro de 2022 com capacidade para 58 crianças, com salas de berçário para 4–12 meses, 12–24 meses e 24–36 meses
 - **Faixa etária coberta:** 4 meses – 3 anos (creche) + pré-escolar + CATL
 - **Preço:** ?
