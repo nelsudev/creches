@@ -1,5 +1,9 @@
 import test from "node:test";
 import assert from "node:assert/strict";
+import { spawnSync } from "node:child_process";
+import { mkdtemp, readFile, rm } from "node:fs/promises";
+import { tmpdir } from "node:os";
+import path from "node:path";
 
 import {
   renderCalendarIcs,
@@ -125,4 +129,40 @@ test("ICS produz eventos determinísticos e exclui datas desconhecidas", () => {
   assert.equal((ics.match(/BEGIN:VEVENT/g) ?? []).length, 4);
   assert.ok(ics.endsWith("END:VCALENDAR\r\n"));
   assert.doesNotMatch(ics, /(?<!\r)\n/);
+});
+
+test("CLI valida a fonte e escreve os dois artefactos", async () => {
+  const outputDirectory = await mkdtemp(
+    path.join(tmpdir(), "creches-calendar-"),
+  );
+  try {
+    const result = spawnSync(
+      process.execPath,
+      [
+        "scripts/calendar/generate.mjs",
+        "test/calendar/fixtures/valid.json",
+        outputDirectory,
+      ],
+      { encoding: "utf8" },
+    );
+    assert.equal(result.status, 0, result.stderr);
+    assert.equal(
+      result.stdout.trim(),
+      "Calendário gerado: 0 decisões, 0 eventos ICS.",
+    );
+
+    const fixture = JSON.parse(
+      await readFile("test/calendar/fixtures/valid.json", "utf8"),
+    );
+    assert.equal(
+      await readFile(path.join(outputDirectory, "calendario.md"), "utf8"),
+      renderCalendarMarkdown(fixture),
+    );
+    assert.equal(
+      await readFile(path.join(outputDirectory, "calendario.ics"), "utf8"),
+      renderCalendarIcs(fixture),
+    );
+  } finally {
+    await rm(outputDirectory, { recursive: true, force: true });
+  }
 });

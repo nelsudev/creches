@@ -6,6 +6,7 @@
   "scripts": {
     "prepare": "husky",
     "test": "node --test",
+    "calendar:generate": "node scripts/calendar/generate.mjs",
     "calendar:validate": "node scripts/calendar/validate.mjs",
     "decision:dry-run": "node scripts/decision/create-review-issues.mjs --dry-run"
   },
