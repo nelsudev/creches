@@ -1,0 +1,43 @@
+name: Revisão de creche
+description: Propor ou rever os dados Markdown de uma creche
+title: "[Revisão] "
+labels:
+  - "decisao:pendente"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Preenche os campos abaixo. Um colaborador decide comentando exatamente `aceite` ou `rejeitado`.
+
+        Esta revisão não substitui contacto, visita ou decisão humana.
+  - type: input
+    id: target_path
+    attributes:
+      label: target_path
+      description: Caminho canónico dentro de fichas/.
+      placeholder: fichas/trofa/nome-da-creche.md
+    validations:
+      required: true
+  - type: textarea
+    id: ficha_markdown
+    attributes:
+      label: ficha_markdown
+      description: Conteúdo Markdown completo proposto para a ficha.
+      render: markdown
+    validations:
+      required: true
+  - type: textarea
+    id: index_row
+    attributes:
+      label: index_row
+      description: Linha completa da tabela em creches.md, ligada ao target_path.
+      render: markdown
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidências e notas
+      description: Fontes, dúvidas e contexto úteis para a revisão humana.
+    validations:
+      required: false

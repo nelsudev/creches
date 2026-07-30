@@ -68,6 +68,16 @@ test("parseReviewIssue extrai os três campos marcados", () => {
   assert.match(parsed.indexRow, /\[ficha\]\(fichas\/trofa\/exemplo\.md\)/);
 });
 
+test("parseReviewIssue aceita target_path simples produzido pelo Issue Form", () => {
+  const parsed = parseReviewIssue(
+    validBody.replace(
+      "`fichas/trofa/exemplo.md`",
+      "fichas/trofa/exemplo.md",
+    ),
+  );
+  assert.equal(parsed.targetPath, "fichas/trofa/exemplo.md");
+});
+
 test("parseReviewIssue recusa headings ausentes ou duplicados", () => {
   assert.throws(
     () => parseReviewIssue(validBody.replace("### index_row", "### outro")),

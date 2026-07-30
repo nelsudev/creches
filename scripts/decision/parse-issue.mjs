@@ -50,12 +50,12 @@ export function parseReviewIssue(body) {
   }
 
   const targetSection = extractSection(body, "target_path");
-  const targetMatch = targetSection.match(/^`([^`\r\n]+)`$/);
+  const targetMatch = targetSection.match(/^(?:`([^`\r\n]+)`|([^`\r\n]+))$/);
   if (!targetMatch) {
-    throw new Error("target_path deve ser um único caminho entre backticks");
+    throw new Error("target_path deve ser um único caminho");
   }
 
-  const targetPath = targetMatch[1];
+  const targetPath = (targetMatch[1] ?? targetMatch[2]).trim();
   validateTargetPath(targetPath);
 
   const fichaMarkdown = parseFencedMarkdown(
