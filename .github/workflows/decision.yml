@@ -36,16 +36,16 @@ jobs:
 
       - name: Obter repositório
         if: steps.command.outputs.handled == 'true'
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: main
           fetch-depth: 0
 
       - name: Configurar Node.js
         if: steps.command.outputs.handled == 'true'
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
         with:
-          node-version: 20
+          node-version: 24
 
       - name: Aplicar e publicar decisão
         if: steps.command.outputs.handled == 'true'

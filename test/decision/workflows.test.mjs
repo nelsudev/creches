@@ -15,6 +15,8 @@ test("workflow de decisão restringe autoridade, permissões e concorrência", a
   assert.match(workflow, /decisao:pendente/);
   assert.match(workflow, /process\.mjs/);
   assert.match(workflow, /gh issue close/);
+  assert.match(workflow, /actions\/checkout@v7/);
+  assert.match(workflow, /actions\/setup-node@v7/);
 });
 
 test("workflow de validação reage à abertura e edição", async () => {
@@ -29,4 +31,6 @@ test("workflow de validação reage à abertura e edição", async () => {
   assert.match(workflow, /parseReviewIssue/);
   assert.match(workflow, /decisao:erro/);
   assert.match(workflow, /decisao:pendente/);
+  assert.match(workflow, /actions\/checkout@v7/);
+  assert.match(workflow, /actions\/setup-node@v7/);
 });
