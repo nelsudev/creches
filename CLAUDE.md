@@ -57,6 +57,12 @@ The actual data-collection work is tracked in GitHub issues (`nelsudev/creches`)
 
 Before collecting data for a creche, pick up the open issue for the current phase and zone — each zone issue depends on the previous phase's issue for that same zone (stated in its body). Don't jump ahead (e.g., don't contact a creche in Fase C before Fase A/B have created its ficha and cross-referenced Creche Feliz/contactos for that zone).
 
+### Human-only phases
+
+Issues labelled **`fase:contactar` are for human execution only**. Agents may prepare contact details, call scripts, questions, and lists of missing fields, but must never simulate a phone call, email exchange, institutional response, or named interlocutor. Do not close a `fase:contactar` issue unless a human has recorded verifiable contact evidence, including the date, channel, and information received.
+
+Record facts obtained through a human contact in the corresponding ficha, with the contact date and `contacto direto` identified as the source. The `fase:visitar` and `fase:decidir` phases likewise require human evidence for visits, decisions, and applications.
+
 Reference facts to use when filling fichas (do not restate as fact without a source, but use as a sanity check against what an institution reports):
 
 - **Legal ratios**: berçário 1 educador + 1 auxiliar per 8 infants (max 10/room); 1-year room 1+1 per 14; 2-year room up to 18; homogeneous 3-year group max 15.
