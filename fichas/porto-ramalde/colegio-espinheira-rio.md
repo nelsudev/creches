@@ -2,14 +2,45 @@
 
 - **Concelho/Freguesia:** Porto / Ramalde
 - **Morada completa:** Rua Senhora do Porto, 741, 4250-456 Porto
+- **Nome comercial / entidade proprietária:** ?
 - **Contactos:** 228 320 009 · geral@colegioespinheirario.pt
 - **Público/Privado/Rede Solidária:** Privado (Colégio Espinheira Rio, Lda.)
+- **Autorização / capacidade autorizada:** ?
 - **Protocolos:** ? (privado — confirmar adesão à bolsa Creche Feliz)
 - **Berçário:** Sim
 - **Faixa etária coberta:** 4 meses–2 anos na creche, segundo o preçário institucional 2026/2027
 - **Preço:** ?
 - **Horário de funcionamento:** 07:30–19:00
+- **Encerramento anual / pausas:** ?
 - **Capacidade / vagas (se conhecido):** 42 lugares autorizados e 42 utentes registados na Carta Social (2025-01-14); não indica vaga atual.
+- **Candidatura / renovação:** ?
+
+## Conformidade e transparência
+
+- **Licença / autorização provisória:** ?
+- **Regulamento / preçário:** ?
+- **Direção técnica / equipa:** ?
+- **Documentos e segurança:** ?
+
+## Acolhimento, saúde e comunicação
+
+- **Adaptação / pessoa de referência:** ?
+- **Plano individual / comunicação:** ?
+- **Medicação / doença / acidente:** ?
+- **Alimentação / alergénios:** ?
+- **Sono / movimento / ecrãs:** ?
+- **Privacidade / fotografias:** ?
+
+## Qualidade e adequação
+
+- **Equipa / rácio por sala:** ?
+- **Projeto pedagógico / rotina:** ?
+- **Interação adulto–criança / ambiente emocional:** ?
+- **Espaço exterior / ventilação / ruído:** ?
+- **Inclusão / necessidades específicas:** ?
+- **Deslocação / estacionamento:** ?
+- **Continuidade para pré-escolar:** ?
+- **Custos práticos:** ?
 
 ## Fontes consultadas
 

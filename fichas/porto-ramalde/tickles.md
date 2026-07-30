@@ -2,14 +2,45 @@
 
 - **Concelho/Freguesia:** Porto / Ramalde
 - **Morada completa:** Rua S. João de Brito, 344–356, 4100-452 Porto
+- **Nome comercial / entidade proprietária:** ?
 - **Contactos:** 226 168 124 / 914 667 874 · tickles@tickles.com.pt
 - **Público/Privado/Rede Solidária:** Privado (Colégio Tickles, Lda.)
+- **Autorização / capacidade autorizada:** ?
 - **Protocolos:** ? (privados só entram no Creche Feliz se aderentes à bolsa)
 - **Berçário:** Sim (idade mínima exata não publicada)
 - **Faixa etária coberta:** Creche + Jardim de Infância + 1º Ciclo
 - **Preço:** ? (privado — mensalidade fixa, perguntar o que inclui)
 - **Horário de funcionamento:** 08:00–19:00
+- **Encerramento anual / pausas:** ?
 - **Capacidade / vagas (se conhecido):** 30 lugares autorizados e 30 utentes registados na creche (Carta Social, 2025-01-13); não indica vaga atual.
+- **Candidatura / renovação:** ?
+
+## Conformidade e transparência
+
+- **Licença / autorização provisória:** ?
+- **Regulamento / preçário:** ?
+- **Direção técnica / equipa:** ?
+- **Documentos e segurança:** ?
+
+## Acolhimento, saúde e comunicação
+
+- **Adaptação / pessoa de referência:** ?
+- **Plano individual / comunicação:** ?
+- **Medicação / doença / acidente:** ?
+- **Alimentação / alergénios:** ?
+- **Sono / movimento / ecrãs:** ?
+- **Privacidade / fotografias:** ?
+
+## Qualidade e adequação
+
+- **Equipa / rácio por sala:** ?
+- **Projeto pedagógico / rotina:** ?
+- **Interação adulto–criança / ambiente emocional:** ?
+- **Espaço exterior / ventilação / ruído:** ?
+- **Inclusão / necessidades específicas:** ?
+- **Deslocação / estacionamento:** ?
+- **Continuidade para pré-escolar:** ?
+- **Custos práticos:** ?
 
 ## Fontes consultadas
 

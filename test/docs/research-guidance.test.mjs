@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { readFile } from "node:fs/promises";
+import { readFile, readdir } from "node:fs/promises";
 
 test("o guia distingue tipo de critério e canal de verificação", async () => {
   const guide = await readFile("docs/criterios-pesquisa.md", "utf8");
@@ -42,6 +42,31 @@ test("a ficha mantém os novos critérios em secções compactas", async () => {
   assert.match(template, /licença.*autorização provisória/i);
   assert.match(template, /adaptação.*pessoa de referência/i);
   assert.match(template, /medicação.*doença.*acidente/i);
+});
+
+test("as 34 fichas canónicas usam a estrutura de avaliação atual", async () => {
+  const paths = [];
+  for (const zone of ["trofa", "matosinhos", "porto-ramalde"]) {
+    for (const file of await readdir(`fichas/${zone}`)) {
+      if (file.endsWith(".md")) paths.push(`fichas/${zone}/${file}`);
+    }
+  }
+
+  assert.equal(paths.length, 34);
+  for (const path of paths) {
+    const ficha = await readFile(path, "utf8");
+    for (const marker of [
+      "**Nome comercial / entidade proprietária:**",
+      "**Autorização / capacidade autorizada:**",
+      "**Encerramento anual / pausas:**",
+      "**Candidatura / renovação:**",
+      "## Conformidade e transparência",
+      "## Acolhimento, saúde e comunicação",
+      "## Qualidade e adequação",
+    ]) {
+      assert.match(ficha, new RegExp(marker.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")), `${path}: falta ${marker}`);
+    }
+  }
 });
 
 test("o guião pergunta por práticas humanas recorrentes", async () => {

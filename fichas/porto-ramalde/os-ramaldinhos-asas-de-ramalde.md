@@ -2,14 +2,45 @@
 
 - **Concelho/Freguesia:** Porto / Ramalde
 - **Morada completa:** Rua Ferreira de Castro, 90, 4250-206 Porto
+- **Nome comercial / entidade proprietária:** ?
 - **Contactos:** 226 164 412 / 969 104 569 · direcaotecnica@asasderamalde.pt · [asasderamalde.com](https://www.asasderamalde.com/)
 - **Público/Privado/Rede Solidária:** Rede Solidária — "Associação de Solidariedade e Acção Social de Ramalde (ASAS de Ramalde)" consta como entidade #76 na lista oficial de entidades da Rede Social do Porto (jan. 2025)
+- **Autorização / capacidade autorizada:** ?
 - **Protocolos:** Creche Feliz (automático — rede solidária, ver README)
 - **Berçário:** Sim (regulamento institucional admite crianças a partir dos 3 meses)
 - **Faixa etária coberta:** 3 meses – 3 anos
 - **Preço:** ?
 - **Horário de funcionamento:** ? (o mapeamento municipal publica 08:00–19:00, mas a Carta Social atual mostra `-`)
+- **Encerramento anual / pausas:** ?
 - **Capacidade / vagas (se conhecido):** 33 lugares autorizados; 20 utentes registados na Carta Social (2026-07-03). A diferença não prova a existência de vaga.
+- **Candidatura / renovação:** ?
+
+## Conformidade e transparência
+
+- **Licença / autorização provisória:** ?
+- **Regulamento / preçário:** ?
+- **Direção técnica / equipa:** ?
+- **Documentos e segurança:** ?
+
+## Acolhimento, saúde e comunicação
+
+- **Adaptação / pessoa de referência:** ?
+- **Plano individual / comunicação:** ?
+- **Medicação / doença / acidente:** ?
+- **Alimentação / alergénios:** ?
+- **Sono / movimento / ecrãs:** ?
+- **Privacidade / fotografias:** ?
+
+## Qualidade e adequação
+
+- **Equipa / rácio por sala:** ?
+- **Projeto pedagógico / rotina:** ?
+- **Interação adulto–criança / ambiente emocional:** ?
+- **Espaço exterior / ventilação / ruído:** ?
+- **Inclusão / necessidades específicas:** ?
+- **Deslocação / estacionamento:** ?
+- **Continuidade para pré-escolar:** ?
+- **Custos práticos:** ?
 
 ## Fontes consultadas
 

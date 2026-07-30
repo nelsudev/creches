@@ -2,14 +2,45 @@
 
 - **Concelho/Freguesia:** Porto / Ramalde
 - **Morada completa:** Rua Direita de Francos, 1024, Ramalde, Porto
+- **Nome comercial / entidade proprietária:** ?
 - **Contactos:** 228 311 451
 - **Público/Privado/Rede Solidária:** ? (natureza jurídica por confirmar; não inferir apenas pelo nome)
+- **Autorização / capacidade autorizada:** ?
 - **Protocolos:** ? (confirmar natureza jurídica e adesão ao Creche Feliz)
 - **Berçário:** ?
 - **Faixa etária coberta:** ?
 - **Preço:** ?
 - **Horário de funcionamento:** ?
+- **Encerramento anual / pausas:** ?
 - **Capacidade / vagas (se conhecido):** ?
+- **Candidatura / renovação:** ?
+
+## Conformidade e transparência
+
+- **Licença / autorização provisória:** ?
+- **Regulamento / preçário:** ?
+- **Direção técnica / equipa:** ?
+- **Documentos e segurança:** ?
+
+## Acolhimento, saúde e comunicação
+
+- **Adaptação / pessoa de referência:** ?
+- **Plano individual / comunicação:** ?
+- **Medicação / doença / acidente:** ?
+- **Alimentação / alergénios:** ?
+- **Sono / movimento / ecrãs:** ?
+- **Privacidade / fotografias:** ?
+
+## Qualidade e adequação
+
+- **Equipa / rácio por sala:** ?
+- **Projeto pedagógico / rotina:** ?
+- **Interação adulto–criança / ambiente emocional:** ?
+- **Espaço exterior / ventilação / ruído:** ?
+- **Inclusão / necessidades específicas:** ?
+- **Deslocação / estacionamento:** ?
+- **Continuidade para pré-escolar:** ?
+- **Custos práticos:** ?
 
 ## Fontes consultadas
 

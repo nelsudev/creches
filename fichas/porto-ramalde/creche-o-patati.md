@@ -2,14 +2,45 @@
 
 - **Concelho/Freguesia:** Porto / Ramalde
 - **Morada completa:** Rua Pereira de Novais, 17, 4100-405 Porto
+- **Nome comercial / entidade proprietária:** ?
 - **Contactos:** 226 066 393 · opatati@hotmail.com
 - **Público/Privado/Rede Solidária:** Privado (Patati – Acompanhamento e Educação de Crianças, Unipessoal Lda.)
+- **Autorização / capacidade autorizada:** ?
 - **Protocolos:** ? (privado — confirmar adesão à bolsa Creche Feliz)
 - **Berçário:** ?
 - **Faixa etária coberta:** Creche (0–3 anos)
 - **Preço:** ?
 - **Horário de funcionamento:** 08:00–19:00
+- **Encerramento anual / pausas:** ?
 - **Capacidade / vagas (se conhecido):** 24 lugares autorizados; 18 utentes registados na Carta Social (2024-12-13). A diferença não prova a existência de vaga.
+- **Candidatura / renovação:** ?
+
+## Conformidade e transparência
+
+- **Licença / autorização provisória:** ?
+- **Regulamento / preçário:** ?
+- **Direção técnica / equipa:** ?
+- **Documentos e segurança:** ?
+
+## Acolhimento, saúde e comunicação
+
+- **Adaptação / pessoa de referência:** ?
+- **Plano individual / comunicação:** ?
+- **Medicação / doença / acidente:** ?
+- **Alimentação / alergénios:** ?
+- **Sono / movimento / ecrãs:** ?
+- **Privacidade / fotografias:** ?
+
+## Qualidade e adequação
+
+- **Equipa / rácio por sala:** ?
+- **Projeto pedagógico / rotina:** ?
+- **Interação adulto–criança / ambiente emocional:** ?
+- **Espaço exterior / ventilação / ruído:** ?
+- **Inclusão / necessidades específicas:** ?
+- **Deslocação / estacionamento:** ?
+- **Continuidade para pré-escolar:** ?
+- **Custos práticos:** ?
 
 ## Fontes consultadas
 

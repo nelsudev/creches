@@ -2,14 +2,45 @@
 
 - **Concelho/Freguesia:** Porto / Ramalde
 - **Morada completa:** Rua das Cruzes, 847, Ramalde, Porto
+- **Nome comercial / entidade proprietária:** ?
 - **Contactos:** 226 175 301
 - **Público/Privado/Rede Solidária:** Público (EB1/JI das Cruzes)
+- **Autorização / capacidade autorizada:** ?
 - **Protocolos:** Não aplicável — é pré-escolar, não uma resposta de creche
 - **Berçário:** Não
 - **Faixa etária coberta:** Pré-escolar (3–6 anos) + 1.º ciclo
 - **Preço:** ?
 - **Horário de funcionamento:** ?
+- **Encerramento anual / pausas:** ?
 - **Capacidade / vagas (se conhecido):** ?
+- **Candidatura / renovação:** ?
+
+## Conformidade e transparência
+
+- **Licença / autorização provisória:** ?
+- **Regulamento / preçário:** ?
+- **Direção técnica / equipa:** ?
+- **Documentos e segurança:** ?
+
+## Acolhimento, saúde e comunicação
+
+- **Adaptação / pessoa de referência:** ?
+- **Plano individual / comunicação:** ?
+- **Medicação / doença / acidente:** ?
+- **Alimentação / alergénios:** ?
+- **Sono / movimento / ecrãs:** ?
+- **Privacidade / fotografias:** ?
+
+## Qualidade e adequação
+
+- **Equipa / rácio por sala:** ?
+- **Projeto pedagógico / rotina:** ?
+- **Interação adulto–criança / ambiente emocional:** ?
+- **Espaço exterior / ventilação / ruído:** ?
+- **Inclusão / necessidades específicas:** ?
+- **Deslocação / estacionamento:** ?
+- **Continuidade para pré-escolar:** ?
+- **Custos práticos:** ?
 
 ## Fontes consultadas
 

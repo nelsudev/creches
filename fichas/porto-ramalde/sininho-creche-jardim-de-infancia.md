@@ -2,14 +2,45 @@
 
 - **Concelho/Freguesia:** Porto / Ramalde
 - **Morada completa:** Rua Dr. Melo Leote, 225, Ramalde, Porto
+- **Nome comercial / entidade proprietária:** ?
 - **Contactos:** 226 178 005
 - **Público/Privado/Rede Solidária:** Privado (Maria Eugénia Dória & Co. Lda.)
+- **Autorização / capacidade autorizada:** ?
 - **Protocolos:** ? (privado — confirmar adesão à bolsa Creche Feliz)
 - **Berçário:** ? (nome inclui "Creche" — verificar idade mínima)
 - **Faixa etária coberta:** Creche + Jardim de Infância
 - **Preço:** ?
 - **Horário de funcionamento:** ? (registo histórico de 2018: 08:00–19:00 na creche e 08:00–18:30 no jardim de infância)
+- **Encerramento anual / pausas:** ?
 - **Capacidade / vagas (se conhecido):** ? (registo histórico de 2018: 12 lugares na creche e 13 no jardim de infância)
+- **Candidatura / renovação:** ?
+
+## Conformidade e transparência
+
+- **Licença / autorização provisória:** ?
+- **Regulamento / preçário:** ?
+- **Direção técnica / equipa:** ?
+- **Documentos e segurança:** ?
+
+## Acolhimento, saúde e comunicação
+
+- **Adaptação / pessoa de referência:** ?
+- **Plano individual / comunicação:** ?
+- **Medicação / doença / acidente:** ?
+- **Alimentação / alergénios:** ?
+- **Sono / movimento / ecrãs:** ?
+- **Privacidade / fotografias:** ?
+
+## Qualidade e adequação
+
+- **Equipa / rácio por sala:** ?
+- **Projeto pedagógico / rotina:** ?
+- **Interação adulto–criança / ambiente emocional:** ?
+- **Espaço exterior / ventilação / ruído:** ?
+- **Inclusão / necessidades específicas:** ?
+- **Deslocação / estacionamento:** ?
+- **Continuidade para pré-escolar:** ?
+- **Custos práticos:** ?
 
 ## Fontes consultadas
 

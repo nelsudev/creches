@@ -2,14 +2,45 @@
 
 - **Concelho/Freguesia:** Porto / Ramalde
 - **Morada completa:** Avenida da Boavista, 2856, 4100-120 Porto
+- **Nome comercial / entidade proprietária:** ?
 - **Contactos:** 226 197 590 · cnsr@colegiodorosario.pt · [colegiodorosario.pt](https://colegiodorosario.pt/)
 - **Público/Privado/Rede Solidária:** Privado
+- **Autorização / capacidade autorizada:** ?
 - **Protocolos:** Não aplicável — a oferta começa no pré-escolar, não sendo uma resposta de creche
 - **Berçário:** Não
 - **Faixa etária coberta:** Pré-escolar – ensino secundário
 - **Preço:** ?
 - **Horário de funcionamento:** ?
+- **Encerramento anual / pausas:** ?
 - **Capacidade / vagas (se conhecido):** ?
+- **Candidatura / renovação:** ?
+
+## Conformidade e transparência
+
+- **Licença / autorização provisória:** ?
+- **Regulamento / preçário:** ?
+- **Direção técnica / equipa:** ?
+- **Documentos e segurança:** ?
+
+## Acolhimento, saúde e comunicação
+
+- **Adaptação / pessoa de referência:** ?
+- **Plano individual / comunicação:** ?
+- **Medicação / doença / acidente:** ?
+- **Alimentação / alergénios:** ?
+- **Sono / movimento / ecrãs:** ?
+- **Privacidade / fotografias:** ?
+
+## Qualidade e adequação
+
+- **Equipa / rácio por sala:** ?
+- **Projeto pedagógico / rotina:** ?
+- **Interação adulto–criança / ambiente emocional:** ?
+- **Espaço exterior / ventilação / ruído:** ?
+- **Inclusão / necessidades específicas:** ?
+- **Deslocação / estacionamento:** ?
+- **Continuidade para pré-escolar:** ?
+- **Custos práticos:** ?
 
 ## Fontes consultadas
 

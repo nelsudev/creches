@@ -2,14 +2,45 @@
 
 - **Concelho/Freguesia:** Porto / Ramalde
 - **Morada completa:** Rua Maria Lamas, 492/494, 4250-330 Porto
+- **Nome comercial / entidade proprietária:** ?
 - **Contactos:** 968 033 061 · fatimabatista@nortecoope.pt
 - **Público/Privado/Rede Solidária:** Rede Solidária — gerido pela Cooperativa Solinorte (mesma entidade com unidade em São Mamede de Infesta, Matosinhos — ver `../matosinhos/cooperativa-solinorte.md`)
+- **Autorização / capacidade autorizada:** ?
 - **Protocolos:** Creche Feliz (automático — rede solidária, ver README)
 - **Berçário:** ?
 - **Faixa etária coberta:** Creche (0–3 anos) + jardim de infância
 - **Preço:** ?
 - **Horário de funcionamento:** 07:30–19:30
+- **Encerramento anual / pausas:** ?
 - **Capacidade / vagas (se conhecido):** 58 lugares autorizados; 57 utentes registados na Carta Social (2026-07-15). A diferença não prova a existência de vaga.
+- **Candidatura / renovação:** ?
+
+## Conformidade e transparência
+
+- **Licença / autorização provisória:** ?
+- **Regulamento / preçário:** ?
+- **Direção técnica / equipa:** ?
+- **Documentos e segurança:** ?
+
+## Acolhimento, saúde e comunicação
+
+- **Adaptação / pessoa de referência:** ?
+- **Plano individual / comunicação:** ?
+- **Medicação / doença / acidente:** ?
+- **Alimentação / alergénios:** ?
+- **Sono / movimento / ecrãs:** ?
+- **Privacidade / fotografias:** ?
+
+## Qualidade e adequação
+
+- **Equipa / rácio por sala:** ?
+- **Projeto pedagógico / rotina:** ?
+- **Interação adulto–criança / ambiente emocional:** ?
+- **Espaço exterior / ventilação / ruído:** ?
+- **Inclusão / necessidades específicas:** ?
+- **Deslocação / estacionamento:** ?
+- **Continuidade para pré-escolar:** ?
+- **Custos práticos:** ?
 
 ## Fontes consultadas
 
