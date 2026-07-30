@@ -2,14 +2,45 @@
 
 - **Concelho/Freguesia:** Matosinhos / Guifões
 - **Morada completa:** Avenida do Doutor Joaquim Neves dos Santos, 1143, 4460-125 Guifões
+- **Nome comercial / entidade proprietária:** ?
 - **Contactos:** 229 563 192 · secretaria@asdg.pt
 - **Público/Privado/Rede Solidária:** Rede Solidária (listada pela Câmara Municipal de Matosinhos na categoria "Instituições Sociais > Creches")
+- **Autorização / capacidade autorizada:** ?
 - **Protocolos:** Creche Feliz (automático — rede solidária, ver README)
 - **Berçário:** ?
 - **Faixa etária coberta:** Creche (até aos 3 anos; idade mínima por confirmar) + pré-escolar + CATL
 - **Preço:** ?
 - **Horário de funcionamento:** 07:30–19:30 (área de infância)
+- **Encerramento anual / pausas:** ?
 - **Capacidade / vagas (se conhecido):** 42 lugares; 42 utentes registados (Carta Social, atualização de 2026-07-15; não equivale a vaga disponível)
+- **Candidatura / renovação:** ?
+
+## Conformidade e transparência
+
+- **Licença / autorização provisória:** ?
+- **Regulamento / preçário:** ?
+- **Direção técnica / equipa:** ?
+- **Documentos e segurança:** ?
+
+## Acolhimento, saúde e comunicação
+
+- **Adaptação / pessoa de referência:** ?
+- **Plano individual / comunicação:** ?
+- **Medicação / doença / acidente:** ?
+- **Alimentação / alergénios:** ?
+- **Sono / movimento / ecrãs:** ?
+- **Privacidade / fotografias:** ?
+
+## Qualidade e adequação
+
+- **Equipa / rácio por sala:** ?
+- **Projeto pedagógico / rotina:** ?
+- **Interação adulto–criança / ambiente emocional:** ?
+- **Espaço exterior / ventilação / ruído:** ?
+- **Inclusão / necessidades específicas:** ?
+- **Deslocação / estacionamento:** ?
+- **Continuidade para pré-escolar:** ?
+- **Custos práticos:** ?
 
 ## Fontes consultadas
 

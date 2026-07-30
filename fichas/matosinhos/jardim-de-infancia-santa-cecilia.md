@@ -2,14 +2,45 @@
 
 - **Concelho/Freguesia:** Matosinhos / Matosinhos
 - **Morada completa:** Rua de Álvaro Castelões, 515, 4450-042 Matosinhos
+- **Nome comercial / entidade proprietária:** ?
 - **Contactos:** 229 380 317 · direccaosantacecilia@gmail.com · [santaceciliamatosinhos.webnode.pt](http://santaceciliamatosinhos.webnode.pt/)
 - **Público/Privado/Rede Solidária:** Rede Solidária (Centro Paroquial de Matosinhos, fundado em 1973; listado pela Câmara Municipal de Matosinhos)
+- **Autorização / capacidade autorizada:** ?
 - **Protocolos:** Creche Feliz (automático — rede solidária, ver README)
 - **Berçário:** Sim — inaugurou creche em janeiro de 2022 com capacidade para 58 crianças, com salas de berçário para 4–12 meses, 12–24 meses e 24–36 meses
 - **Faixa etária coberta:** 4 meses – 3 anos (creche) + pré-escolar + CATL
 - **Preço:** ?
 - **Horário de funcionamento:** 07:30–19:00
+- **Encerramento anual / pausas:** ?
 - **Capacidade / vagas (se conhecido):** 65 lugares; 62 utentes registados (Carta Social, atualização de 2026-07-16; a diferença não confirma vagas abertas). A capacidade divulgada na inauguração de 2022 era 58.
+- **Candidatura / renovação:** ?
+
+## Conformidade e transparência
+
+- **Licença / autorização provisória:** ?
+- **Regulamento / preçário:** ?
+- **Direção técnica / equipa:** ?
+- **Documentos e segurança:** ?
+
+## Acolhimento, saúde e comunicação
+
+- **Adaptação / pessoa de referência:** ?
+- **Plano individual / comunicação:** ?
+- **Medicação / doença / acidente:** ?
+- **Alimentação / alergénios:** ?
+- **Sono / movimento / ecrãs:** ?
+- **Privacidade / fotografias:** ?
+
+## Qualidade e adequação
+
+- **Equipa / rácio por sala:** ?
+- **Projeto pedagógico / rotina:** ?
+- **Interação adulto–criança / ambiente emocional:** ?
+- **Espaço exterior / ventilação / ruído:** ?
+- **Inclusão / necessidades específicas:** ?
+- **Deslocação / estacionamento:** ?
+- **Continuidade para pré-escolar:** ?
+- **Custos práticos:** ?
 
 ## Fontes consultadas
 

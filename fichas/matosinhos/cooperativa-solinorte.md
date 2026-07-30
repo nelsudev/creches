@@ -2,14 +2,45 @@
 
 - **Concelho/Freguesia:** Matosinhos / São Mamede de Infesta
 - **Morada completa:** Travessa Sousa Carvalho, 49, 4465-149 São Mamede de Infesta
+- **Nome comercial / entidade proprietária:** ?
 - **Contactos:** 968 033 061 · fatimabatista@nortecoope.pt · [solinorte.pt](https://www.solinorte.pt/)
 - **Público/Privado/Rede Solidária:** Rede Solidária (listada pela Câmara Municipal de Matosinhos na categoria "Instituições Sociais > Creches")
+- **Autorização / capacidade autorizada:** ?
 - **Protocolos:** Creche Feliz (automático — rede solidária, ver README)
 - **Berçário:** ?
 - **Faixa etária coberta:** Creche (até aos 3 anos; idade mínima por confirmar) + pré-escolar
 - **Preço:** ?
 - **Horário de funcionamento:** 07:30–19:30
+- **Encerramento anual / pausas:** ?
 - **Capacidade / vagas (se conhecido):** 58 lugares; 54 utentes registados (Carta Social, atualização de 2026-07-15; a diferença não confirma vagas abertas)
+- **Candidatura / renovação:** ?
+
+## Conformidade e transparência
+
+- **Licença / autorização provisória:** ?
+- **Regulamento / preçário:** ?
+- **Direção técnica / equipa:** ?
+- **Documentos e segurança:** ?
+
+## Acolhimento, saúde e comunicação
+
+- **Adaptação / pessoa de referência:** ?
+- **Plano individual / comunicação:** ?
+- **Medicação / doença / acidente:** ?
+- **Alimentação / alergénios:** ?
+- **Sono / movimento / ecrãs:** ?
+- **Privacidade / fotografias:** ?
+
+## Qualidade e adequação
+
+- **Equipa / rácio por sala:** ?
+- **Projeto pedagógico / rotina:** ?
+- **Interação adulto–criança / ambiente emocional:** ?
+- **Espaço exterior / ventilação / ruído:** ?
+- **Inclusão / necessidades específicas:** ?
+- **Deslocação / estacionamento:** ?
+- **Continuidade para pré-escolar:** ?
+- **Custos práticos:** ?
 
 ## Fontes consultadas
 

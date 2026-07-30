@@ -2,14 +2,45 @@
 
 - **Concelho/Freguesia:** Matosinhos / Senhora da Hora
 - **Morada completa:** Rua de Gonçalves Crespo, 7, 4466-213 Senhora da Hora
+- **Nome comercial / entidade proprietária:** ?
 - **Contactos:** 229 530 639 / 229 578 350 / 916 606 338 · geral@setebicas.com · [setebicas.com/atividades](https://www.setebicas.com/atividades/)
 - **Público/Privado/Rede Solidária:** Rede Solidária (listada pela Câmara Municipal de Matosinhos na categoria "Instituições Sociais > Creches")
+- **Autorização / capacidade autorizada:** ?
 - **Protocolos:** Creche Feliz (automático — rede solidária, ver README)
 - **Berçário:** Sim (a pré-inscrição inclui a sala de berçário)
 - **Faixa etária coberta:** 0–3 anos
 - **Preço:** ?
 - **Horário de funcionamento:** 07:30–19:00
+- **Encerramento anual / pausas:** ?
 - **Capacidade / vagas (se conhecido):** 40 lugares; 40 utentes registados (Carta Social, atualização de 2025-01-20; não equivale a vaga disponível)
+- **Candidatura / renovação:** ?
+
+## Conformidade e transparência
+
+- **Licença / autorização provisória:** ?
+- **Regulamento / preçário:** ?
+- **Direção técnica / equipa:** ?
+- **Documentos e segurança:** ?
+
+## Acolhimento, saúde e comunicação
+
+- **Adaptação / pessoa de referência:** ?
+- **Plano individual / comunicação:** ?
+- **Medicação / doença / acidente:** ?
+- **Alimentação / alergénios:** ?
+- **Sono / movimento / ecrãs:** ?
+- **Privacidade / fotografias:** ?
+
+## Qualidade e adequação
+
+- **Equipa / rácio por sala:** ?
+- **Projeto pedagógico / rotina:** ?
+- **Interação adulto–criança / ambiente emocional:** ?
+- **Espaço exterior / ventilação / ruído:** ?
+- **Inclusão / necessidades específicas:** ?
+- **Deslocação / estacionamento:** ?
+- **Continuidade para pré-escolar:** ?
+- **Custos práticos:** ?
 
 ## Fontes consultadas
 

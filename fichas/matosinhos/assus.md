@@ -2,14 +2,45 @@
 
 - **Concelho/Freguesia:** Matosinhos / São Mamede de Infesta
 - **Morada completa:** Rua da Creche, 104 e 134A, 4465-112 São Mamede de Infesta
+- **Nome comercial / entidade proprietária:** ?
 - **Contactos:** 229 516 021 / 936 508 330 · geral@assus.pt · [assus.pt](http://assus.pt)
 - **Público/Privado/Rede Solidária:** Rede Solidária (listada pela Câmara Municipal de Matosinhos na categoria "Instituições Sociais > Creches")
+- **Autorização / capacidade autorizada:** ?
 - **Protocolos:** Creche Feliz (automático — rede solidária, ver README)
 - **Berçário:** Sim
 - **Faixa etária coberta:** 4 meses – 3 anos (creche)
 - **Preço:** ?
 - **Horário de funcionamento:** 07:30–19:30
+- **Encerramento anual / pausas:** ?
 - **Capacidade / vagas (se conhecido):** 46 lugares; 46 utentes registados (Carta Social, atualização de 2025-01-09; não equivale a vaga disponível)
+- **Candidatura / renovação:** ?
+
+## Conformidade e transparência
+
+- **Licença / autorização provisória:** ?
+- **Regulamento / preçário:** ?
+- **Direção técnica / equipa:** ?
+- **Documentos e segurança:** ?
+
+## Acolhimento, saúde e comunicação
+
+- **Adaptação / pessoa de referência:** ?
+- **Plano individual / comunicação:** ?
+- **Medicação / doença / acidente:** ?
+- **Alimentação / alergénios:** ?
+- **Sono / movimento / ecrãs:** ?
+- **Privacidade / fotografias:** ?
+
+## Qualidade e adequação
+
+- **Equipa / rácio por sala:** ?
+- **Projeto pedagógico / rotina:** ?
+- **Interação adulto–criança / ambiente emocional:** ?
+- **Espaço exterior / ventilação / ruído:** ?
+- **Inclusão / necessidades específicas:** ?
+- **Deslocação / estacionamento:** ?
+- **Continuidade para pré-escolar:** ?
+- **Custos práticos:** ?
 
 ## Fontes consultadas
 

@@ -2,14 +2,45 @@
 
 - **Concelho/Freguesia:** Matosinhos / Leça do Balio (Recarei)
 - **Morada completa:** Rua de Recarei de Cima — n.º divergente: 125 (Carta Social) / 152 (Câmara Municipal), Leça do Balio
+- **Nome comercial / entidade proprietária:** ?
 - **Contactos:** 229 547 669 · infantario.recarei@centrosocialdelecadobalio.pt
 - **Público/Privado/Rede Solidária:** Rede Solidária (listada pela Câmara Municipal de Matosinhos na categoria "Instituições Sociais > Creches")
+- **Autorização / capacidade autorizada:** ?
 - **Protocolos:** Creche Feliz (automático — rede solidária, ver README)
 - **Berçário:** ?
 - **Faixa etária coberta:** Creche (até aos 3 anos; idade mínima e berçário por confirmar) + pré-escolar
 - **Preço:** ?
 - **Horário de funcionamento:** 07:00–19:00
+- **Encerramento anual / pausas:** ?
 - **Capacidade / vagas (se conhecido):** 20 lugares; 19 utentes registados (Carta Social, atualização de 2026-07-15; a diferença não confirma uma vaga aberta)
+- **Candidatura / renovação:** ?
+
+## Conformidade e transparência
+
+- **Licença / autorização provisória:** ?
+- **Regulamento / preçário:** ?
+- **Direção técnica / equipa:** ?
+- **Documentos e segurança:** ?
+
+## Acolhimento, saúde e comunicação
+
+- **Adaptação / pessoa de referência:** ?
+- **Plano individual / comunicação:** ?
+- **Medicação / doença / acidente:** ?
+- **Alimentação / alergénios:** ?
+- **Sono / movimento / ecrãs:** ?
+- **Privacidade / fotografias:** ?
+
+## Qualidade e adequação
+
+- **Equipa / rácio por sala:** ?
+- **Projeto pedagógico / rotina:** ?
+- **Interação adulto–criança / ambiente emocional:** ?
+- **Espaço exterior / ventilação / ruído:** ?
+- **Inclusão / necessidades específicas:** ?
+- **Deslocação / estacionamento:** ?
+- **Continuidade para pré-escolar:** ?
+- **Custos práticos:** ?
 
 ## Fontes consultadas
 
