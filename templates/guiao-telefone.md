@@ -43,14 +43,44 @@ Confirmar na [Carta Social](https://www.cartasocial.pt) se a instituição é **
 - Qual o horário de funcionamento? Há prolongamento?
 - Quantas crianças e quantos adultos por sala?
   - Referência legal: **berçário** 1 educador + 1 auxiliar por 8 bebés (máx. 10 por sala); **sala de 1 ano** 1+1 por 14; **sala de 2 anos** até 18; grupo homogéneo de 3 anos máx. 15.
+- As salas são **agrupadas** na abertura ou no fecho? Que idades ficam juntas e com quantos adultos?
+- Há uma **pessoa de referência** para cada bebé?
+- Há quanto tempo está a equipa atual? Qual tem sido a **rotatividade** e como cobrem faltas?
 - Têm continuidade para pré-escolar (3–6 anos) na mesma instituição, ou é preciso mudar aos 3 anos?
 - Que meses fecham (férias, Natal, Páscoa)?
 
-## 5. Pedir sempre, antes de desligar
+## 5. Adaptação, rotina e comunicação
+
+- Como organizam a **adaptação**? Pode começar com períodos curtos e aumentar gradualmente?
+- O sono e a alimentação seguem inicialmente a rotina individual do bebé?
+- Onde dormem, como é feita a supervisão do **sono** e como registam as verificações?
+- Como gerem leite materno/fórmula, introdução alimentar e alergénios?
+- Quanto tempo passam no chão e no exterior? Usam televisão ou outros ecrãs?
+- Que informação diária enviam sobre refeições, sono, fraldas e comportamento?
+- Como comunicam um acidente, recusa alimentar ou alteração de comportamento?
+- Usam aplicação ou **fotografias**? Como recolhem consentimento e protegem a privacidade?
+
+## 6. Saúde e segurança
+
+- Qual é a política de **doença** e quando pedem a recolha da criança?
+- Como autorizam e registam a **medicação**?
+- Quem tem formação de **primeiros socorros** e quando foi atualizada?
+- Como evacuam bebés que ainda não andam e com que frequência fazem simulacros?
+- Como controlam entradas, saídas e pessoas autorizadas a recolher a criança?
+
+## 7. Custos e candidatura
+
+- A candidatura na Segurança Social Direta dispensa algum passo local ou recomendam manifestação de interesse adicional?
+- Há **caução** ou taxa para reservar vaga? É **reembolsável** se não houver colocação ou se desistirmos?
+- Paga-se durante férias, ausência prolongada ou encerramento?
+- Que fraldas, toalhitas, leite, refeições ou materiais são fornecidos?
+- Há hora-limite de entrada, taxa por recolha tardia ou outros custos não incluídos?
+
+## 8. Pedir sempre, antes de desligar
 
 - Cópia do **regulamento interno** (por email) — é onde estão os critérios de prioridade e as regras de renovação.
 - Confirmação **por email** da inscrição, com data.
 
-## 6. Depois da chamada
+## 9. Depois da chamada
 
 Registar na ficha: data da chamada, nome de quem atendeu, e todas as respostas. Campos sem resposta ficam `?` — não preencher por suposição. Atualizar também a linha correspondente em `creches.md`.
