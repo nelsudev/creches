@@ -254,7 +254,10 @@ test("a fonte canónica e o JSON Schema correspondem ao validador", async () => 
 test("o CLI valida a fonte canónica e explica um documento inválido", () => {
   const valid = spawnSync(
     process.execPath,
-    ["scripts/calendar/validate.mjs"],
+    [
+      "scripts/calendar/validate.mjs",
+      "test/calendar/fixtures/valid.json",
+    ],
     { encoding: "utf8" },
   );
   assert.equal(valid.status, 0, valid.stderr);

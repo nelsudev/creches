@@ -1,6 +1,806 @@
 {
   "version": 1,
   "timezone": "Europe/Lisbon",
-  "defaultRemindersDays": [30, 14, 7, 2],
-  "decisions": []
+  "defaultRemindersDays": [
+    30,
+    14,
+    7,
+    2
+  ],
+  "decisions": [
+    {
+      "id": "review-matosinhos-aba-associacao-baptista-agape",
+      "title": "Rever: ABA - Associação Baptista Ágape",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 19,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-matosinhos-amas-associacao-mamedense-de-apoio-social",
+      "title": "Rever: AMAS - Associação Mamedense de Apoio Social",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 20,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-matosinhos-asdg-associacao-social-e-de-desenvolvimento-de-guifoes",
+      "title": "Rever: ASDG - Associação Social e de Desenvolvimento de Guifões",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 21,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-matosinhos-associacao-mais-santiago-custoias",
+      "title": "Rever: Associação MAIS (Santiago/Custoias)",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 22,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-matosinhos-associacao-mais-sol-poente",
+      "title": "Rever: Associação MAIS (Sol Poente)",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 23,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-matosinhos-associacao-recreativa-guerra-junqueiro",
+      "title": "Rever: Associação Recreativa Guerra Junqueiro",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 24,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-matosinhos-assus",
+      "title": "Rever: ASSUS",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 25,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-matosinhos-casa-do-povo-de-santa-cruz-do-bispo",
+      "title": "Rever: Casa do Povo de Santa Cruz do Bispo",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 26,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-matosinhos-ccssg-centro-cultural-de-solidariedade-social-de-guifoes",
+      "title": "Rever: CCSSG - Centro Cultural de Solidariedade Social de Guifões",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 27,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-matosinhos-centro-infantil-de-sao-mamede-de-infesta",
+      "title": "Rever: Centro Infantil de São Mamede de Infesta",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 28,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-matosinhos-centro-social-de-leca-do-balio-manso",
+      "title": "Rever: Centro Social de Leça do Balio (Manso)",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 29,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-matosinhos-centro-social-de-leca-do-balio-recarei",
+      "title": "Rever: Centro Social de Leça do Balio (Recarei)",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 30,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-matosinhos-cooperativa-sete-bicas",
+      "title": "Rever: Cooperativa \"As Sete Bicas\"",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 31,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-matosinhos-cooperativa-solinorte",
+      "title": "Rever: Cooperativa Solinorte",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 32,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-matosinhos-jardim-de-infancia-santa-cecilia",
+      "title": "Rever: Jardim de Infância Santa Cecília",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 33,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-porto-ramalde-a-casa-do-cuco",
+      "title": "Rever: A Casa do Cuco (Laura Pinto, Lda.)",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 34,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-porto-ramalde-amds-creche-infantario-atl",
+      "title": "Rever: A M D S Creche, Infantário e ATL, Lda.",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 35,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-porto-ramalde-centro-social-paroquial-do-carvalhido",
+      "title": "Rever: Centro Social Paroquial do Carvalhido",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 36,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-porto-ramalde-colegio-de-nossa-senhora-do-rosario",
+      "title": "Rever: Colégio de Nossa Senhora do Rosário",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 37,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-porto-ramalde-colegio-espinheira-rio",
+      "title": "Rever: Colégio Espinheira Rio",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 38,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-porto-ramalde-creche-o-patati",
+      "title": "Rever: Creche O Patati",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 39,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-porto-ramalde-externato-s-joao-de-brito",
+      "title": "Rever: Externato S. João de Brito (EIPM)",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 40,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-porto-ramalde-jardim-de-infancia-acacio-gomes",
+      "title": "Rever: Jardim de Infância Acácio Gomes (Solinorte)",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 41,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-porto-ramalde-jardim-de-infancia-das-cruzes",
+      "title": "Rever: Jardim de Infância das Cruzes",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 42,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-porto-ramalde-jardim-infantil-bairro-das-campinas",
+      "title": "Rever: Jardim Infantil Bairro das Campinas",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 43,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-porto-ramalde-os-ramaldinhos-asas-de-ramalde",
+      "title": "Rever: Os Ramaldinhos - ASAS de Ramalde",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 44,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-porto-ramalde-patronato-de-santa-maria-de-ramalde",
+      "title": "Rever: Patronato de Santa Maria de Ramalde",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 45,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-porto-ramalde-sininho-creche-jardim-de-infancia",
+      "title": "Rever: Sininho Creche Jardim de Infância",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 46,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-porto-ramalde-tickles",
+      "title": "Rever: Tickles – Creche, J. Infância e 1º Ciclo",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 47,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-trofa-centro-infantil-de-bougado",
+      "title": "Rever: Centro Infantil de Bougado",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 48,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-trofa-colegio-da-trofa",
+      "title": "Rever: Colégio da Trofa",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 49,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-trofa-creche-misericordia-da-trofa",
+      "title": "Rever: Creche – Misericórdia da Trofa",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 50,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-trofa-creche-padre-joaquim-ribeiro",
+      "title": "Rever: Creche Padre Joaquim Ribeiro (CSPSMB)",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 51,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "review-trofa-jardim-infantil-do-coracao-de-jesus",
+      "title": "Rever: Jardim Infantil do Coração de Jesus",
+      "type": "review",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 52,
+      "source": null,
+      "notes": "Revisão dos dados pesquisados; comentar aceite ou rejeitado na issue."
+    },
+    {
+      "id": "contact-trofa",
+      "title": "Contactar creches da Trofa",
+      "type": "contact",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 10,
+      "source": null,
+      "notes": ""
+    },
+    {
+      "id": "contact-matosinhos",
+      "title": "Contactar creches de Matosinhos",
+      "type": "contact",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 11,
+      "source": null,
+      "notes": ""
+    },
+    {
+      "id": "contact-porto-ramalde",
+      "title": "Contactar creches do Porto/Ramalde",
+      "type": "contact",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": 12,
+      "source": null,
+      "notes": ""
+    },
+    {
+      "id": "visit-trofa",
+      "title": "Visitar shortlist da Trofa",
+      "type": "visit",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [
+        "contact-trofa"
+      ],
+      "issueNumber": 13,
+      "source": null,
+      "notes": ""
+    },
+    {
+      "id": "visit-matosinhos",
+      "title": "Visitar shortlist de Matosinhos",
+      "type": "visit",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [
+        "contact-matosinhos"
+      ],
+      "issueNumber": 14,
+      "source": null,
+      "notes": ""
+    },
+    {
+      "id": "visit-porto-ramalde",
+      "title": "Visitar shortlist do Porto/Ramalde",
+      "type": "visit",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [
+        "contact-porto-ramalde"
+      ],
+      "issueNumber": 15,
+      "source": null,
+      "notes": ""
+    },
+    {
+      "id": "final-shortlist",
+      "title": "Fechar shortlist final",
+      "type": "decision",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [
+        "visit-trofa",
+        "visit-matosinhos",
+        "visit-porto-ramalde"
+      ],
+      "issueNumber": 16,
+      "source": null,
+      "notes": ""
+    },
+    {
+      "id": "choose-three-options",
+      "title": "Escolher até três estabelecimentos",
+      "type": "decision",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [
+        "final-shortlist"
+      ],
+      "issueNumber": null,
+      "source": null,
+      "notes": "Limite atual do pedido na Segurança Social Direta."
+    },
+    {
+      "id": "submit-official-application",
+      "title": "Submeter candidatura oficial",
+      "type": "application",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [
+        "choose-three-options"
+      ],
+      "issueNumber": null,
+      "source": null,
+      "notes": ""
+    },
+    {
+      "id": "save-application-number",
+      "title": "Guardar número e confirmação do pedido",
+      "type": "document",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [
+        "submit-official-application"
+      ],
+      "issueNumber": null,
+      "source": null,
+      "notes": ""
+    },
+    {
+      "id": "monitor-application",
+      "title": "Acompanhar candidatura e lista de espera",
+      "type": "application",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [
+        "save-application-number"
+      ],
+      "issueNumber": null,
+      "source": null,
+      "notes": ""
+    },
+    {
+      "id": "respond-to-offer",
+      "title": "Responder a proposta de vaga",
+      "type": "decision",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [
+        "monitor-application"
+      ],
+      "issueNumber": null,
+      "source": null,
+      "notes": ""
+    },
+    {
+      "id": "deliver-enrolment-documents",
+      "title": "Entregar documentos de matrícula",
+      "type": "document",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [
+        "respond-to-offer"
+      ],
+      "issueNumber": null,
+      "source": null,
+      "notes": ""
+    },
+    {
+      "id": "confirm-payments",
+      "title": "Confirmar e efetuar pagamentos aplicáveis",
+      "type": "payment",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [
+        "respond-to-offer"
+      ],
+      "issueNumber": null,
+      "source": null,
+      "notes": ""
+    },
+    {
+      "id": "start-adaptation",
+      "title": "Iniciar período de adaptação",
+      "type": "adaptation",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [
+        "deliver-enrolment-documents",
+        "confirm-payments"
+      ],
+      "issueNumber": null,
+      "source": null,
+      "notes": ""
+    },
+    {
+      "id": "renew-enrolment",
+      "title": "Renovar inscrição",
+      "type": "renewal",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [
+        "start-adaptation"
+      ],
+      "issueNumber": null,
+      "source": null,
+      "notes": ""
+    },
+    {
+      "id": "confirm-annual-closures",
+      "title": "Confirmar encerramentos e pausas anuais",
+      "type": "closure",
+      "owner": "human",
+      "timing": {
+        "kind": "unknown"
+      },
+      "state": "unknown",
+      "remindersDays": [],
+      "dependsOn": [],
+      "issueNumber": null,
+      "source": null,
+      "notes": ""
+    }
+  ]
 }
