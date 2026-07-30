@@ -4,7 +4,9 @@
   "private": true,
   "description": "Levantamento e organização de informação sobre creches em Portugal (Trofa, Matosinhos, Porto/Ramalde)",
   "scripts": {
-    "prepare": "husky"
+    "prepare": "husky",
+    "test": "node --test",
+    "decision:dry-run": "node scripts/decision/create-review-issues.mjs --dry-run"
   },
   "repository": {
     "type": "git",
