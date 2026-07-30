@@ -13,6 +13,7 @@
 
 ## Fontes consultadas
 
+- [Carta Social — pesquisa atual de Creche no concelho do Porto](https://www.cartasocial.pt/resultados-da-pesquisa?l=13-12-00&tp=1103&vt=1) — consultado em 2026-07-30 — o equipamento não foi localizado na listagem atual; esta ausência não prova encerramento nem confirma a atividade.
 - [Infantários e Creches — Ramalde, Porto — Código Postal / Ciberforma](https://codigopostal.ciberforma.pt/dir/lista/por-freguesia/ramalde-concelho-de-porto/infantarios-e-creches/) — consultado em 2026-07-30 — confirma morada e contacto.
 
 ## Histórico de visitas
@@ -23,4 +24,4 @@
 
 ## Notas gerais
 
-Classificação Rede Solidária é uma inferência pelo nome, não confirmada em fonte oficial — verificar por telefone/Carta Social.
+Não localizado na pesquisa atual de **Creche** da Carta Social do concelho do Porto em 2026-07-30. A natureza jurídica, atividade atual e resposta social têm de ser confirmadas por contacto humano; não se infere rede solidária apenas pelo nome.
