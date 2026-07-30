@@ -18,7 +18,21 @@ Não editar diretamente sem seguir as regras em `CLAUDE.md` — cada entrada aqu
 
 | Nome | Localização | Preço | Protocolos | Público/Privado | Berçário | Faixa Etária | Já Visitámos | Ficha | Notas |
 |---|---|---|---|---|---|---|---|---|---|
-| _(sem entradas ainda)_ | | | | | | | | | |
+| ABA - Associação Baptista Ágape | ? | ? | ? | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/aba-associacao-baptista-agape.md) | |
+| AMAS - Associação Mamedense de Apoio Social | São Mamede de Infesta (?) | ? | ? | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/amas-associacao-mamedense-de-apoio-social.md) | |
+| ASDG - Associação Social e de Desenvolvimento de Guifões | Guifões | ? | ? | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/asdg-associacao-social-e-de-desenvolvimento-de-guifoes.md) | |
+| Associação MAIS (Santiago/Custoias) | Santiago de Custóias | ? | ? | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/associacao-mais-santiago-custoias.md) | |
+| Associação MAIS (Sol Poente) | Sol Poente | ? | ? | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/associacao-mais-sol-poente.md) | |
+| Associação Recreativa Guerra Junqueiro | Lavra (?) | ? | ? | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/associacao-recreativa-guerra-junqueiro.md) | |
+| ASSUS | São Mamede de Infesta | ? | ? | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/assus.md) | Morada confirmada |
+| Casa do Povo de Santa Cruz do Bispo | Santa Cruz do Bispo | ? | ? | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/casa-do-povo-de-santa-cruz-do-bispo.md) | |
+| CCSSG - Centro Cultural de Solidariedade Social de Guifões | Guifões | ? | ? | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/ccssg-centro-cultural-de-solidariedade-social-de-guifoes.md) | |
+| Centro Infantil de São Mamede de Infesta | São Mamede de Infesta | ? | ? | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/centro-infantil-de-sao-mamede-de-infesta.md) | |
+| Centro Social de Leça do Balio (Recarei) | Leça do Balio | ? | ? | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/centro-social-de-leca-do-balio-recarei.md) | |
+| Centro Social de Leça do Balio (Manso) | Leça do Balio | ? | ? | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/centro-social-de-leca-do-balio-manso.md) | |
+| Jardim de Infância Santa Cecília | Matosinhos | ? | ? | Rede Solidária | Sim | 4m–3a (creche) + pré-escolar + CATL | Não | [ficha](fichas/matosinhos/jardim-de-infancia-santa-cecilia.md) | Ficha mais completa; morada+capacidade confirmadas |
+| Cooperativa Solinorte | São Mamede de Infesta | ? | ? | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/cooperativa-solinorte.md) | Morada confirmada |
+| Cooperativa "As Sete Bicas" | ? | ? | ? | Rede Solidária | ? | ? | Não | [ficha](fichas/matosinhos/cooperativa-sete-bicas.md) | Ficha incompleta — só nome confirmado |
 
 ## Porto (Ramalde)
 
