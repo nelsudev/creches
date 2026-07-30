@@ -4,7 +4,16 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Purpose
 
-This is not a software project — it's a data/research repository for tracking creches (nurseries/daycare) in Portugal, initially covering Trofa, Matosinhos, and Porto (Ramalde area). There is no build, lint, or test tooling here.
+This is not a software project — it's a data/research repository for tracking creches (nurseries/daycare) in Portugal, initially covering Trofa, Matosinhos, and Porto (Ramalde area). There is no build, lint, or test tooling here beyond commit-message linting (see below).
+
+## Commit conventions
+
+Commit messages must follow [Conventional Commits](https://www.conventionalcommits.org/) and are enforced by **commitlint** (`@commitlint/config-conventional`) via a husky `commit-msg` hook.
+
+- Run `npm install` once after cloning so husky installs the hook (`npm run prepare`, wired to the `prepare` script).
+- Format: `type(scope): subject`, e.g. `feat(trofa): add ficha for Creche O Ninho`, `docs(claude): document issue workflow`, `chore(setup): add commitlint`.
+- Common types here: `feat` (new creche entries/data), `docs` (README/CLAUDE.md/templates), `chore` (tooling), `fix` (correcting a previously recorded fact).
+- The hook rejects non-conforming messages at commit time — there is no way to bypass it without `--no-verify`, which should not be used.
 
 ## Scope of data being tracked
 

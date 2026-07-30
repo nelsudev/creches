@@ -1,0 +1,23 @@
+{
+  "name": "creches",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Levantamento e organização de informação sobre creches em Portugal (Trofa, Matosinhos, Porto/Ramalde)",
+  "scripts": {
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelsudev/creches.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nelsudev/creches/issues"
+  },
+  "homepage": "https://github.com/nelsudev/creches#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^21.2.1",
+    "@commitlint/config-conventional": "^21.2.0",
+    "husky": "^9.1.7"
+  }
+}
