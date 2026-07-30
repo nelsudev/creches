@@ -85,3 +85,22 @@ Fontes consultadas em 2026-07-30:
 Os critérios obrigatórios, recomendados e opcionais, a hierarquia de fontes e a separação entre pesquisa, chamada e visita estão documentados em [`docs/criterios-pesquisa.md`](docs/criterios-pesquisa.md).
 
 O levantamento inicial de Trofa, Matosinhos e Porto/Ramalde está criado. As fases seguintes confirmam por telefone vagas/preços e registam visitas presenciais.
+
+### Contactos e visitas: nada feito até à data
+
+Confirmado pela família em **2026-07-30**: até esta data **não foi feito nenhum contacto telefónico nem nenhuma visita** a qualquer das instituições listadas. Nenhuma pré-inscrição, manifestação de interesse ou candidatura foi submetida.
+
+Por isso, a coluna "Já Visitámos" do índice está a `Não` em todas as linhas por **facto confirmado**, e não por falta de preenchimento. Os históricos de visita das fichas estão vazios pela mesma razão.
+
+### Estado dos dados (2026-07-30)
+
+| Campo | Preenchido |
+|---|---|
+| Morada e contactos | 34/34 |
+| Natureza (público/solidária/privada) | 33/34 |
+| Protocolos (Creche Feliz) | 26/34 |
+| Horário | 25/34 |
+| Berçário | 17/34 |
+| **Preço** | **0/34** |
+
+Lacunas conhecidas de cobertura: a enumeração de Matosinhos e da Trofa está incompleta (ver issues abertas).
