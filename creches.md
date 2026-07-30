@@ -38,7 +38,21 @@ Não editar diretamente sem seguir as regras em `CLAUDE.md` — cada entrada aqu
 
 | Nome | Localização | Preço | Protocolos | Público/Privado | Berçário | Faixa Etária | Já Visitámos | Ficha | Notas |
 |---|---|---|---|---|---|---|---|---|---|
-| _(sem entradas ainda)_ | | | | | | | | | |
+| Laura Pinto, Lda. | Ramalde | ? | ? | Privado | ? | ? | Não | [ficha](fichas/porto-ramalde/laura-pinto.md) | |
+| Jardim Infantil Bairro das Campinas | Ramalde | ? | ? | ? | ? | ? | Não | [ficha](fichas/porto-ramalde/jardim-infantil-bairro-das-campinas.md) | |
+| Jardim de Infância das Cruzes | Ramalde | ? | ? | ? | ? | ? | Não | [ficha](fichas/porto-ramalde/jardim-de-infancia-das-cruzes.md) | |
+| A M D S Creche, Infantário e ATL, Lda. | Ramalde | ? | ? | Privado | ? | Creche + Infantário + ATL | Não | [ficha](fichas/porto-ramalde/amds-creche-infantario-atl.md) | |
+| Patronato de Santa Maria de Ramalde | Ramalde | ? | ? | Rede Solidária (?) | ? | ? | Não | [ficha](fichas/porto-ramalde/patronato-de-santa-maria-de-ramalde.md) | Classificação por inferir do nome |
+| Creche O Patati | Ramalde | ? | ? | ? | ? | ? | Não | [ficha](fichas/porto-ramalde/creche-o-patati.md) | Confirmado por 2 fontes |
+| Sininho Creche Jardim de Infância | Ramalde | ? | ? | ? | ? | Creche + JI | Não | [ficha](fichas/porto-ramalde/sininho-creche-jardim-de-infancia.md) | |
+| Externato S. João de Brito (EIPM) | Ramalde | ? | ? | Privado | ? | ? | Não | [ficha](fichas/porto-ramalde/externato-s-joao-de-brito.md) | Confirmado por 2 fontes |
+| Jardim de Infância Acácio Gomes (Solinorte) | Ramalde | ? | ? | Rede Solidária | ? | ? | Não | [ficha](fichas/porto-ramalde/jardim-de-infancia-acacio-gomes.md) | Mesma entidade que Cooperativa Solinorte (Matosinhos) |
+| A Casa do Cuco | Ramalde | ? | ? | ? | ? | ? | Não | [ficha](fichas/porto-ramalde/a-casa-do-cuco.md) | Ficha incompleta |
+| Centro Social Paroquial do Carvalhido | Ramalde (Carvalhido) | ? | ? | Rede Solidária (?) | ? | ? | Não | [ficha](fichas/porto-ramalde/centro-social-paroquial-do-carvalhido.md) | Ficha incompleta |
+| Colégio de Nossa Senhora do Rosário | Ramalde | ? | ? | ? | ? | ? | Não | [ficha](fichas/porto-ramalde/colegio-de-nossa-senhora-do-rosario.md) | Confirmado na Rede Social oficial do Porto |
+| Colégio Espinheira Rio | Ramalde | ? | ? | ? | ? | ? | Não | [ficha](fichas/porto-ramalde/colegio-espinheira-rio.md) | Ficha incompleta |
+| Os Ramaldinhos - ASAS de Ramalde | Ramalde | ? | ? | Rede Solidária | ? | ? | Não | [ficha](fichas/porto-ramalde/os-ramaldinhos-asas-de-ramalde.md) | Confirmado na Rede Social oficial do Porto |
+| Tickles – Creche, J. Infância e 1º Ciclo | Ramalde | ? | ? | Privado (?) | ? | Creche + JI + 1º Ciclo | Não | [ficha](fichas/porto-ramalde/tickles.md) | Ficha incompleta |
 
 ---
 
