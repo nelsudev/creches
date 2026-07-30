@@ -117,6 +117,90 @@ ${entry.indexRow}
   };
 }
 
+function issueLabelNames(issue) {
+  return (issue.labels ?? []).map((label) =>
+    typeof label === "string" ? label : label.name
+  );
+}
+
+export function planIssueSync(entries, issues) {
+  const issuesByTarget = new Map();
+  for (const issue of issues) {
+    try {
+      const { targetPath } = parseReviewIssue(issue.body);
+      const matching = issuesByTarget.get(targetPath) ?? [];
+      matching.push(issue);
+      issuesByTarget.set(targetPath, matching);
+    } catch {
+      // Non-review issues and malformed unrelated issues are outside sync scope.
+    }
+  }
+
+  const plan = { updates: [], unchanged: [], refused: [] };
+  for (const entry of entries) {
+    const matching = issuesByTarget.get(entry.targetPath) ?? [];
+    if (matching.length === 0) {
+      plan.refused.push({
+        targetPath: entry.targetPath,
+        reason: "issue inexistente",
+      });
+      continue;
+    }
+    if (matching.length > 1) {
+      plan.refused.push({
+        targetPath: entry.targetPath,
+        reason: "issues duplicadas",
+      });
+      continue;
+    }
+
+    const issue = matching[0];
+    const labels = issueLabelNames(issue);
+    if (issue.state !== "OPEN") {
+      plan.refused.push({
+        number: issue.number,
+        targetPath: entry.targetPath,
+        reason: "issue fechada",
+      });
+      continue;
+    }
+    if (
+      labels.includes("decisao:aceite") ||
+      labels.includes("decisao:rejeitado")
+    ) {
+      plan.refused.push({
+        number: issue.number,
+        targetPath: entry.targetPath,
+        reason: "decisão terminal",
+      });
+      continue;
+    }
+    if (!labels.includes("decisao:pendente")) {
+      plan.refused.push({
+        number: issue.number,
+        targetPath: entry.targetPath,
+        reason: "sem decisao:pendente",
+      });
+      continue;
+    }
+
+    const desiredBody = renderReviewIssue(entry).body;
+    if (issue.body === desiredBody) {
+      plan.unchanged.push({
+        number: issue.number,
+        targetPath: entry.targetPath,
+      });
+    } else {
+      plan.updates.push({
+        number: issue.number,
+        targetPath: entry.targetPath,
+        body: desiredBody,
+      });
+    }
+  }
+  return plan;
+}
+
 function runGh(args, { input } = {}) {
   return execFileSync("gh", args, {
     encoding: "utf8",
@@ -159,10 +243,11 @@ function existingReviewIssues(repo) {
     "--limit",
     "1000",
     "--json",
-    "number,body,url",
+    "number,body,url,state,labels",
   ]);
+  const issues = JSON.parse(output);
   const byTargetPath = new Map();
-  for (const issue of JSON.parse(output)) {
+  for (const issue of issues) {
     try {
       const parsed = parseReviewIssue(issue.body);
       if (byTargetPath.has(parsed.targetPath)) {
@@ -173,7 +258,7 @@ function existingReviewIssues(repo) {
       if (String(error.message).startsWith("issues duplicadas")) throw error;
     }
   }
-  return byTargetPath;
+  return { issues, byTargetPath };
 }
 
 function createIssue(repo, issue) {
@@ -184,8 +269,23 @@ function createIssue(repo, issue) {
   return JSON.parse(response);
 }
 
+function updateIssueBody(repo, update) {
+  runGh(
+    [
+      "api",
+      "--method",
+      "PATCH",
+      `repos/${repo}/issues/${update.number}`,
+      "--input",
+      "-",
+    ],
+    { input: JSON.stringify({ body: update.body }) },
+  );
+}
+
 function parseOptions(argv) {
   const dryRun = argv.includes("--dry-run");
+  const sync = argv.includes("--sync");
   const limitIndex = argv.indexOf("--limit");
   let limit = Number.POSITIVE_INFINITY;
   if (limitIndex !== -1) {
@@ -194,22 +294,47 @@ function parseOptions(argv) {
       throw new Error("--limit exige um inteiro positivo");
     }
   }
-  return { dryRun, limit };
+  return { dryRun, sync, limit };
 }
 
 async function main() {
-  const { dryRun, limit } = parseOptions(process.argv.slice(2));
+  const { dryRun, sync, limit } = parseOptions(process.argv.slice(2));
   const entries = await readCanonicalEntries({ rootDir: process.cwd() });
   const repo = repositoryName();
   const existing = existingReviewIssues(repo);
-  const missing = entries.filter((entry) => !existing.has(entry.targetPath));
+  const missing = entries.filter(
+    (entry) => !existing.byTargetPath.has(entry.targetPath)
+  );
 
   process.stdout.write(
     `Validação: ${entries.length} fichas, ${new Set(entries.map((entry) => entry.targetPath)).size} caminhos seguros, ${entries.length} linhas de índice.\n`,
   );
   process.stdout.write(
-    `GitHub: ${existing.size} issues de revisão existentes; ${missing.length} por criar.\n`,
+    `GitHub: ${existing.byTargetPath.size} issues de revisão existentes; ${missing.length} por criar.\n`,
   );
+
+  if (sync) {
+    const plan = planIssueSync(entries, existing.issues);
+    process.stdout.write(
+      `Sync: ${plan.updates.length} would update; ${plan.unchanged.length} unchanged; ${plan.refused.length} refused.\n`,
+    );
+    for (const item of plan.refused) {
+      process.stdout.write(
+        `[refused] ${item.targetPath}: ${item.reason}\n`,
+      );
+    }
+    if (plan.refused.length > 0) {
+      throw new Error("sincronização recusada por questões de segurança");
+    }
+    if (dryRun) return;
+    for (const update of plan.updates.slice(0, limit)) {
+      updateIssueBody(repo, update);
+      process.stdout.write(
+        `[updated] #${update.number} ${update.targetPath}\n`,
+      );
+    }
+    return;
+  }
 
   if (dryRun) {
     for (const entry of missing.slice(0, limit)) {

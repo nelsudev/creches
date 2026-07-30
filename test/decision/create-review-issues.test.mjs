@@ -3,6 +3,7 @@ import assert from "node:assert/strict";
 
 import {
   LABELS,
+  planIssueSync,
   readCanonicalEntries,
   renderReviewIssue,
 } from "../../scripts/decision/create-review-issues.mjs";
@@ -55,4 +56,81 @@ test("declara todas as labels de decisão e zona", () => {
     "zona:porto-ramalde",
     "zona:trofa",
   ]);
+});
+
+test("planeia atualização apenas para uma issue aberta e pendente", async () => {
+  const [entry] = await readCanonicalEntries({ rootDir: process.cwd() });
+  const desired = renderReviewIssue(entry);
+  const staleBody = desired.body.replace(entry.indexRow, `${entry.indexRow} `);
+  const plan = planIssueSync([entry], [{
+    number: 19,
+    state: "OPEN",
+    body: staleBody,
+    labels: [{ name: "decisao:pendente" }, { name: `zona:${entry.zone}` }],
+  }]);
+  assert.equal(plan.updates.length, 1);
+  assert.equal(plan.updates[0].number, 19);
+  assert.equal(plan.updates[0].body, desired.body);
+  assert.equal(plan.unchanged.length, 0);
+  assert.equal(plan.refused.length, 0);
+});
+
+test("planeamento é no-op para corpo idêntico", async () => {
+  const [entry] = await readCanonicalEntries({ rootDir: process.cwd() });
+  const desired = renderReviewIssue(entry);
+  const plan = planIssueSync([entry], [{
+    number: 19,
+    state: "OPEN",
+    body: desired.body,
+    labels: [{ name: "decisao:pendente" }],
+  }]);
+  assert.equal(plan.updates.length, 0);
+  assert.deepEqual(plan.unchanged, [{
+    number: 19,
+    targetPath: entry.targetPath,
+  }]);
+  assert.equal(plan.refused.length, 0);
+});
+
+test("recusa issue fechada ou com decisão terminal", async () => {
+  const entries = await readCanonicalEntries({ rootDir: process.cwd() });
+  const first = entries[0];
+  const second = entries[1];
+  const plan = planIssueSync([first, second], [
+    {
+      number: 19,
+      state: "CLOSED",
+      body: renderReviewIssue(first).body,
+      labels: [{ name: "decisao:pendente" }],
+    },
+    {
+      number: 20,
+      state: "OPEN",
+      body: renderReviewIssue(second).body,
+      labels: [{ name: "decisao:aceite" }],
+    },
+  ]);
+  assert.equal(plan.updates.length, 0);
+  assert.equal(plan.unchanged.length, 0);
+  assert.deepEqual(
+    plan.refused.map((item) => item.reason),
+    ["issue fechada", "decisão terminal"],
+  );
+});
+
+test("recusa target_path com issues duplicadas", async () => {
+  const [entry] = await readCanonicalEntries({ rootDir: process.cwd() });
+  const issue = {
+    state: "OPEN",
+    body: renderReviewIssue(entry).body,
+    labels: [{ name: "decisao:pendente" }],
+  };
+  const plan = planIssueSync([entry], [
+    { ...issue, number: 19 },
+    { ...issue, number: 20 },
+  ]);
+  assert.deepEqual(plan.refused, [{
+    targetPath: entry.targetPath,
+    reason: "issues duplicadas",
+  }]);
 });
