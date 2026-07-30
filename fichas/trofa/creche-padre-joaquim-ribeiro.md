@@ -2,14 +2,45 @@
 
 - **Concelho/Freguesia:** Trofa / São Martinho (Bougado)
 - **Morada completa:** Rua Papa João Paulo II, Complexo da Igreja Nova – Apartado 244, 4785-141 São Martinho (Bougado)
+- **Nome comercial / entidade proprietária:** ?
 - **Contactos:** 252 414 383 · ruiabreu@cspsmb.pt · [cspsmb.pt](https://cspsmb.pt/contactos/)
 - **Público/Privado/Rede Solidária:** Rede Solidária (IPSS — Centro Social e Paroquial de São Martinho do Bougado, fundado em 2007)
+- **Autorização / capacidade autorizada:** ?
 - **Protocolos:** Creche Feliz (automático — rede solidária, ver README)
 - **Berçário:** Sim (dois berçários publicados pela instituição; idade mínima exata não indicada)
 - **Faixa etária coberta:** Creche com dois berçários, três salas de 12–24 meses e duas salas de 24–36 meses
 - **Preço:** ?
 - **Horário de funcionamento:** 07:30–19:00
+- **Encerramento anual / pausas:** ?
 - **Capacidade / vagas (se conhecido):** 86 lugares autorizados e 86 utentes registados na creche (Carta Social, 2026-07-23); não indica vaga atual.
+- **Candidatura / renovação:** ?
+
+## Conformidade e transparência
+
+- **Licença / autorização provisória:** ?
+- **Regulamento / preçário:** ?
+- **Direção técnica / equipa:** ?
+- **Documentos e segurança:** ?
+
+## Acolhimento, saúde e comunicação
+
+- **Adaptação / pessoa de referência:** ?
+- **Plano individual / comunicação:** ?
+- **Medicação / doença / acidente:** ?
+- **Alimentação / alergénios:** ?
+- **Sono / movimento / ecrãs:** ?
+- **Privacidade / fotografias:** ?
+
+## Qualidade e adequação
+
+- **Equipa / rácio por sala:** ?
+- **Projeto pedagógico / rotina:** ?
+- **Interação adulto–criança / ambiente emocional:** ?
+- **Espaço exterior / ventilação / ruído:** ?
+- **Inclusão / necessidades específicas:** ?
+- **Deslocação / estacionamento:** ?
+- **Continuidade para pré-escolar:** ?
+- **Custos práticos:** ?
 
 ## Fontes consultadas
 

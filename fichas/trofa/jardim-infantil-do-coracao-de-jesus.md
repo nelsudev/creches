@@ -2,14 +2,45 @@
 
 - **Concelho/Freguesia:** Trofa / São Mamede Coronado
 - **Morada completa:** Rua Nossa Sra. de Lurdes, 436, 4745-497 São Mamede Coronado
+- **Nome comercial / entidade proprietária:** ?
 - **Contactos:** 229 821 237 · verabarrinhos@hotmail.com
 - **Público/Privado/Rede Solidária:** Rede Solidária (IPSS — consta na listagem oficial de IPSS do concelho da Trofa)
+- **Autorização / capacidade autorizada:** ?
 - **Protocolos:** Creche Feliz (automático — rede solidária, ver README)
 - **Berçário:** ? (resposta social listada como "Creche, Infantário" — confirmar idade mínima por telefone)
 - **Faixa etária coberta:** Creche + Infantário (0–3 e ~3–6, a confirmar split exato)
 - **Preço:** ?
 - **Horário de funcionamento:** ?
+- **Encerramento anual / pausas:** ?
 - **Capacidade / vagas (se conhecido):** ?
+- **Candidatura / renovação:** ?
+
+## Conformidade e transparência
+
+- **Licença / autorização provisória:** ?
+- **Regulamento / preçário:** ?
+- **Direção técnica / equipa:** ?
+- **Documentos e segurança:** ?
+
+## Acolhimento, saúde e comunicação
+
+- **Adaptação / pessoa de referência:** ?
+- **Plano individual / comunicação:** ?
+- **Medicação / doença / acidente:** ?
+- **Alimentação / alergénios:** ?
+- **Sono / movimento / ecrãs:** ?
+- **Privacidade / fotografias:** ?
+
+## Qualidade e adequação
+
+- **Equipa / rácio por sala:** ?
+- **Projeto pedagógico / rotina:** ?
+- **Interação adulto–criança / ambiente emocional:** ?
+- **Espaço exterior / ventilação / ruído:** ?
+- **Inclusão / necessidades específicas:** ?
+- **Deslocação / estacionamento:** ?
+- **Continuidade para pré-escolar:** ?
+- **Custos práticos:** ?
 
 ## Fontes consultadas
 

@@ -2,14 +2,45 @@
 
 - **Concelho/Freguesia:** Trofa / São Romão do Coronado
 - **Morada completa:** Rua do Seixal, 11, 4745-589 São Romão do Coronado
+- **Nome comercial / entidade proprietária:** ?
 - **Contactos:** 229 864 767 (direto) / 252 450 800 (geral) · creche@misericordiadatrofa.pt · [misericordiadatrofa.pt/creche](https://misericordiadatrofa.pt/creche/)
 - **Público/Privado/Rede Solidária:** Rede Solidária (IPSS — Santa Casa da Misericórdia da Trofa)
+- **Autorização / capacidade autorizada:** ?
 - **Protocolos:** Creche Feliz (automático — rede solidária, ver README)
 - **Berçário:** Sim (aceita a partir dos 0 meses, segundo o site da instituição)
 - **Faixa etária coberta:** 0 meses – 3 anos (creche); há Jardim de Infância associado no mesmo local para 3–6 anos
 - **Preço:** ?
 - **Horário de funcionamento:** 07:30–19:00
+- **Encerramento anual / pausas:** ?
 - **Capacidade / vagas (se conhecido):** 42 lugares autorizados e 43 utentes registados na Carta Social (2026-07-09). A ocupação superior à capacidade é reproduzida tal como publicada e deve ser esclarecida; não permite inferir vaga.
+- **Candidatura / renovação:** ?
+
+## Conformidade e transparência
+
+- **Licença / autorização provisória:** ?
+- **Regulamento / preçário:** ?
+- **Direção técnica / equipa:** ?
+- **Documentos e segurança:** ?
+
+## Acolhimento, saúde e comunicação
+
+- **Adaptação / pessoa de referência:** ?
+- **Plano individual / comunicação:** ?
+- **Medicação / doença / acidente:** ?
+- **Alimentação / alergénios:** ?
+- **Sono / movimento / ecrãs:** ?
+- **Privacidade / fotografias:** ?
+
+## Qualidade e adequação
+
+- **Equipa / rácio por sala:** ?
+- **Projeto pedagógico / rotina:** ?
+- **Interação adulto–criança / ambiente emocional:** ?
+- **Espaço exterior / ventilação / ruído:** ?
+- **Inclusão / necessidades específicas:** ?
+- **Deslocação / estacionamento:** ?
+- **Continuidade para pré-escolar:** ?
+- **Custos práticos:** ?
 
 ## Fontes consultadas
 
