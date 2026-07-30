@@ -15,6 +15,7 @@
 
 - [Listagem de berçários em Ramalde — Primeira Imagem](https://www.primeiraimagem.com/bercarios-ramalde.php) — consultado em 2026-07-30 — só confirma o nome e a freguesia; página individual não foi aberta.
 - [Mapeamento de Recursos Sociais do Município do Porto](https://acaosocial.cm-porto.pt/files/uploads/cms/Mapeamento_Recursos_Sociais_Municipio_Porto.pdf) — consultado em 2026-07-30 — confirma entidade proprietária, morada, contacto, capacidade e horário.
+- [Infantários e Creches — Ramalde, Porto — Código Postal / Ciberforma](https://codigopostal.ciberforma.pt/dir/lista/por-freguesia/ramalde-concelho-de-porto/infantarios-e-creches/) — consultado em 2026-07-30 — confirma a entidade legal Laura Pinto, Lda. na mesma morada e telefone.
 
 ## Histórico de visitas
 
@@ -24,4 +25,4 @@
 
 ## Notas gerais
 
-Ficha incompleta — abrir página individual do diretório para morada/contactos antes da fase de contacto telefónico.
+Nome comercial: **Creche – Colégio Casa do Cuco**. Entidade proprietária: **Laura Pinto, Lda.** A antiga ficha `laura-pinto.md` foi consolidada nesta para evitar contagem dupla.

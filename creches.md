@@ -38,7 +38,6 @@ Não editar diretamente sem seguir as regras em `CLAUDE.md` — cada entrada aqu
 
 | Nome | Localização | Preço | Protocolos | Público/Privado | Berçário | Faixa Etária | Já Visitámos | Ficha | Notas |
 |---|---|---|---|---|---|---|---|---|---|
-| Laura Pinto, Lda. | Ramalde | ? | ? | Privado | ? | 0–3 anos | Não | [ficha](fichas/porto-ramalde/laura-pinto.md) | Possível duplicado da Casa do Cuco (#18) |
 | Jardim Infantil Bairro das Campinas | Ramalde | ? | Não aplicável | Rede Solidária | Não | Pré-escolar | Não | [ficha](fichas/porto-ramalde/jardim-infantil-bairro-das-campinas.md) | Não presta resposta de creche |
 | Jardim de Infância das Cruzes | Ramalde | ? | Não aplicável | Público | Não | Pré-escolar + 1.º ciclo | Não | [ficha](fichas/porto-ramalde/jardim-de-infancia-das-cruzes.md) | Não presta resposta de creche |
 | A M D S Creche, Infantário e ATL, Lda. | Ramalde | ? | ? | Privado | ? | Creche + Infantário + ATL | Não | [ficha](fichas/porto-ramalde/amds-creche-infantario-atl.md) | Confirmar adesão na app Creche Feliz |
@@ -47,7 +46,7 @@ Não editar diretamente sem seguir as regras em `CLAUDE.md` — cada entrada aqu
 | Sininho Creche Jardim de Infância | Ramalde | ? | ? | Privado | ? | Creche + JI | Não | [ficha](fichas/porto-ramalde/sininho-creche-jardim-de-infancia.md) | Dados operacionais de 2018 |
 | Externato S. João de Brito (EIPM) | Ramalde | ? | ? | Privado | ? | 0–3 anos | Não | [ficha](fichas/porto-ramalde/externato-s-joao-de-brito.md) | 40 lugares |
 | Jardim de Infância Acácio Gomes (Solinorte) | Ramalde | ? | Creche Feliz | Rede Solidária | ? | Creche + JI | Não | [ficha](fichas/porto-ramalde/jardim-de-infancia-acacio-gomes.md) | Mesma entidade que Cooperativa Solinorte (Matosinhos) |
-| A Casa do Cuco | Ramalde | ? | ? | Privado | ? | 0–3 anos | Não | [ficha](fichas/porto-ramalde/a-casa-do-cuco.md) | Possível duplicado de Laura Pinto, Lda. (#18) |
+| A Casa do Cuco (Laura Pinto, Lda.) | Ramalde | ? | ? | Privado | ? | 0–3 anos | Não | [ficha](fichas/porto-ramalde/a-casa-do-cuco.md) | Nome comercial e entidade consolidados |
 | Centro Social Paroquial do Carvalhido | Ramalde (Carvalhido) | ? | Creche Feliz | Rede Solidária | ? | Creche + pré-escolar | Não | [ficha](fichas/porto-ramalde/centro-social-paroquial-do-carvalhido.md) | 20 lugares na creche |
 | Colégio de Nossa Senhora do Rosário | Ramalde | ? | Não aplicável | Privado | Não | Pré-escolar – secundário | Não | [ficha](fichas/porto-ramalde/colegio-de-nossa-senhora-do-rosario.md) | Não presta resposta de creche |
 | Colégio Espinheira Rio | Ramalde | ? | ? | Privado | ? | 0–3 anos | Não | [ficha](fichas/porto-ramalde/colegio-espinheira-rio.md) | 42 lugares |
