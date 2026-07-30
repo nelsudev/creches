@@ -25,20 +25,31 @@ Objetivo: reunir para cada creche o essencial para decidir e contactar — nome,
 
 ## Como se candidata a uma vaga (confirmado)
 
-Desde **abril de 2026**, o pedido de vaga em creches **abrangidas** pelo Creche Feliz (rede solidária/IPSS, públicas, e privadas aderentes à bolsa) é feito **exclusivamente** pelo Portal Segurança Social Direta ou pela app da Segurança Social — já não há candidatura direta à instituição para a vaga em si. O processo:
+O pedido oficial de vaga em creches abrangidas pela medida da gratuitidade é feito na **Segurança Social Direta** ou na app da Segurança Social. Uma conversa, formulário ou pré-inscrição local pode servir como manifestação de interesse da família, mas não deve ser confundida com a candidatura oficial nem com uma vaga atribuída.
 
 1. Login na Segurança Social Direta (chave móvel digital ou NISS).
 2. Menu Família → Desenvolvimento da Criança → Creche Feliz.
-3. Pesquisar vagas por distrito/concelho/freguesia.
-4. Selecionar até 3 creches por ordem de preferência e submeter.
-5. Dentro da bolsa, a prioridade é para IPSS/rede solidária: só se pode usar uma creche **privada aderente** se não houver vaga numa IPSS da freguesia.
+3. Pesquisar estabelecimentos pela área relevante.
+4. Adicionar ao pedido um **máximo de três estabelecimentos**.
+5. Preencher os dados da criança, data prevista de entrada, agregado, irmãos e comprovativos pedidos.
+6. Submeter e guardar o **número do pedido** e a confirmação da candidatura.
 
-Isto substitui pedidos diretos à instituição para creches abrangidas pela bolsa (públicas, IPSS/solidárias, privadas aderentes). **Exceção:** creches **privadas que não aderem** ao Creche Feliz (fora da bolsa) continuam a ter inscrição direta com a própria instituição — para essas, confirmar sempre com a creche o processo de inscrição.
+Manter estes estados separados no acompanhamento:
+
+- **Pré-inscrição local / manifestação de interesse:** registo feito diretamente com a instituição; confirmar se ainda é usado e para que efeito.
+- **Candidatura oficial:** pedido submetido na Segurança Social Direta, com número de pedido.
+- **Lista de espera:** candidatura sem lugar disponível; registar apenas a posição se a entidade a comunicar.
+- **Vaga atribuída:** lugar aceite e confirmado para a criança; guardar estabelecimento e data de início.
+
+Os [critérios oficiais de prioridade](https://www.seg-social.pt/ptss/pssd/menu/ajuda/perguntas-frequentes/faq-acao-social-criterios-priorizacao-vaga) podem acumular-se e incluem continuidade, deficiência/incapacidade, situações familiares específicas, irmãos, escalão, residência e trabalho na área de influência. Não substituir essa lista por uma ordem informal transmitida por terceiros.
+
+Creches privadas não aderentes à bolsa gerem a inscrição diretamente. Numa privada aderente, confirmar a adesão no serviço autenticado e esclarecer com a instituição quaisquer passos administrativos adicionais.
 
 Fontes consultadas em 2026-07-30:
-- [Creches gratuitas: quem tem direito e como fazer candidatura — DECO Proteste](https://www.deco.proteste.pt/familia-consumo/bebes-criancas/noticias/creches-gratuitas-quem-tem-direito-como-fazer-candidatura)
-- [Programa Creche Feliz: como funciona, quem tem direito e como pedir — e-Konomista](https://www.e-konomista.pt/programa-creche-feliz/)
-- [Rede de Creches Gratuitas — seg-social.pt](https://www.seg-social.pt/rede-de-creches-gratuitas)
+- [Como registar uma candidatura de pedido de vaga — Segurança Social](https://www.seg-social.pt/ptss/pssd/menu/ajuda/tutoriais/faq-acao-social-registo-pedido-vaga)
+- [Como pesquisar e consultar creches disponíveis — Segurança Social](https://www.seg-social.pt/ptss/pssd/menu/ajuda/tutoriais/faq-acao-social-pesquisar-creches)
+- [Critérios de priorização — Segurança Social](https://www.seg-social.pt/ptss/pssd/menu/ajuda/perguntas-frequentes/faq-acao-social-criterios-priorizacao-vaga)
+- [Portaria n.º 305/2022 — bolsa de creches aderentes](https://diariodarepublica.pt/dr/detalhe/portaria/305-2022-205109990)
 
 ## Como comparar preço entre redes
 
@@ -60,14 +71,14 @@ Fontes consultadas em 2026-07-30:
 
 Confirmado: creches da **rede social/solidária** (IPSS, Misericórdias, mutualidades, cooperativas e associações sem fins lucrativos com acordo de cooperação com a Segurança Social) estão **automaticamente** incluídas no Creche Feliz — não precisam de aderir voluntariamente, por já pertencerem à rede pública de apoios sociais. Só as **creches privadas com fins lucrativos** aderem voluntariamente à bolsa, e a Segurança Social verifica se cumprem requisitos (situação contributiva/fiscal regularizada, condições de instalação e funcionamento conformes).
 
-Não existe lista pública consultável da bolsa de privadas aderentes fora da app/portal Creche Feliz (que requer login). Prática a seguir nas fichas:
+A pesquisa atual de estabelecimentos e vagas é feita no serviço autenticado da Segurança Social Direta/app da Segurança Social. Prática a seguir nas fichas:
 
 - **Rede Solidária/IPSS** → registar Protocolos como `Creche Feliz (automático — rede solidária)`.
-- **Privado** → não assumir nem gratuitidade nem exclusão; registar `?` e confirmar por telefone ou na app Creche Feliz se a creche está na bolsa aderente.
+- **Privado** → não assumir nem gratuitidade nem exclusão; registar `?` e confirmar no serviço autenticado da Segurança Social ou diretamente com a instituição se integra a bolsa aderente.
 
 Fontes consultadas em 2026-07-30:
-- [Creche Feliz - Rede de Creches Gratuitas — seg-social.pt](https://www.garantiainfancia.gov.pt/-/creche-feliz-rede-de-creches-gratuitas)
-- [Aplicação Creche Feliz ajuda a encontrar vagas em creches gratuitas — gov.pt](https://www2.gov.pt/noticias/aplicacao-creche-feliz-ajuda-a-encontrar-vagas-em-creches-gratuitas)
+- [Creche Feliz — Desenvolvimento de crianças e jovens, Segurança Social](https://www.seg-social.pt/ptss/pssd/menu/familia/desenvolvimento-criancas-jovens)
+- [Respostas de primeira infância — Garantia para a Infância](https://www.garantiainfancia.gov.pt/pt/-/respostas-1-infancia)
 
 ## Estado atual
 

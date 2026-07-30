@@ -40,7 +40,7 @@ Não editar diretamente sem seguir as regras em `CLAUDE.md` — cada entrada aqu
 |---|---|---|---|---|---|---|---|---|---|
 | Jardim Infantil Bairro das Campinas | Ramalde | ? | Não aplicável | Rede Solidária | Não | Pré-escolar | Não | [ficha](fichas/porto-ramalde/jardim-infantil-bairro-das-campinas.md) | Não presta resposta de creche |
 | Jardim de Infância das Cruzes | Ramalde | ? | Não aplicável | Público | Não | Pré-escolar + 1.º ciclo | Não | [ficha](fichas/porto-ramalde/jardim-de-infancia-das-cruzes.md) | Não presta resposta de creche |
-| A M D S Creche, Infantário e ATL, Lda. | Ramalde | ? | ? | Privado | ? | Creche + Infantário + ATL | Não | [ficha](fichas/porto-ramalde/amds-creche-infantario-atl.md) | Confirmar adesão na app Creche Feliz |
+| A M D S Creche, Infantário e ATL, Lda. | Ramalde | ? | ? | Privado | ? | Creche + Infantário + ATL | Não | [ficha](fichas/porto-ramalde/amds-creche-infantario-atl.md) | Confirmar adesão na Segurança Social Direta ou com a instituição |
 | Patronato de Santa Maria de Ramalde | Ramalde | ? | ? | ? | ? | ? | Não | [ficha](fichas/porto-ramalde/patronato-de-santa-maria-de-ramalde.md) | Natureza jurídica por confirmar |
 | Creche O Patati | Ramalde | ? | ? | Privado | ? | 0–3 anos | Não | [ficha](fichas/porto-ramalde/creche-o-patati.md) | 24 lugares |
 | Sininho Creche Jardim de Infância | Ramalde | ? | ? | Privado | ? | Creche + JI | Não | [ficha](fichas/porto-ramalde/sininho-creche-jardim-de-infancia.md) | Dados operacionais de 2018 |

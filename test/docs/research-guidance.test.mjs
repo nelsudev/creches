@@ -62,3 +62,25 @@ test("o guião pergunta por práticas humanas recorrentes", async () => {
     assert.match(script, new RegExp(term, "i"), `falta ${term}`);
   }
 });
+
+test("documenta a candidatura Creche Feliz atual", async () => {
+  const readme = await readFile("README.md", "utf8");
+  assert.match(readme, /Segurança Social Direta/);
+  assert.match(readme, /máximo de três estabelecimentos/i);
+  assert.match(readme, /candidatura oficial/i);
+  assert.match(readme, /pré-inscrição local/i);
+  assert.match(readme, /lista de espera/i);
+  assert.match(readme, /vaga atribuída/i);
+  assert.match(readme, /número do pedido/i);
+});
+
+test("remove referências operacionais à aplicação Creche Feliz antiga", async () => {
+  const paths = [
+    "README.md",
+    "creches.md",
+    "templates/guiao-telefone.md",
+  ];
+  const combined = (await Promise.all(paths.map((file) => readFile(file, "utf8"))))
+    .join("\n");
+  assert.doesNotMatch(combined, /app Creche Feliz|aplicação Creche Feliz/i);
+});
