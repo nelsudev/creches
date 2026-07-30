@@ -8,7 +8,11 @@ Não editar diretamente sem seguir as regras em `CLAUDE.md` — cada entrada aqu
 
 | Nome | Localização | Preço | Protocolos | Público/Privado | Berçário | Faixa Etária | Já Visitámos | Ficha | Notas |
 |---|---|---|---|---|---|---|---|---|---|
-| _(sem entradas ainda)_ | | | | | | | | | |
+| Creche – Misericórdia da Trofa | São Romão do Coronado | ? | ? | Rede Solidária | Sim | 0m–3a (+ JI 3–6a associado) | Não | [ficha](fichas/trofa/creche-misericordia-da-trofa.md) | Continuidade com JI no mesmo local |
+| Creche Padre Joaquim Ribeiro (CSPSMB) | São Martinho (Bougado) | ? | ? | Rede Solidária | ? | Creche + Infantário | Não | [ficha](fichas/trofa/creche-padre-joaquim-ribeiro.md) | |
+| Jardim Infantil do Coração de Jesus | São Mamede Coronado | ? | ? | Rede Solidária | ? | Creche + Infantário | Não | [ficha](fichas/trofa/jardim-infantil-do-coracao-de-jesus.md) | |
+| Centro Infantil de Bougado | São Martinho (Bougado) | ? | ? | ? | ? | ? | Não | [ficha](fichas/trofa/centro-infantil-de-bougado.md) | Baixa confiança — confirmar entidade gestora |
+| Colégio da Trofa | São Martinho (Bougado) | ? | ? | Privado | ? | ? | Não | [ficha](fichas/trofa/colegio-da-trofa.md) | Confirmar se tem berçário |
 
 ## Matosinhos
 
