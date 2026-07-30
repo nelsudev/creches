@@ -41,6 +41,8 @@ Do not fabricate contact details or program affiliation (Creche Feliz, público/
 
 ## Guidelines agents must follow when adding or updating a creche entry
 
+Use `docs/criterios-pesquisa.md` para priorizar os campos, escolher a fonte adequada e separar o que pode ser confirmado por pesquisa do que exige chamada ou visita.
+
 1. **Never fabricate data.** Every field (price, protocol, público/privado status, berçário) must come from a source in the README's "Fontes fidedignas" list (Carta Social, Segurança Social, DGE/DGEstE, câmara municipal, or a direct call/visit). If a field can't be verified, write `?` rather than guessing.
 2. **Always create both artifacts together:** a detail file at `fichas/<concelho>/<nome-slug>.md` (from `templates/ficha-creche.md`) AND a row in the matching table in `creches.md` that links to it. Don't add one without the other.
 3. **Record sources per entry.** In the detail file's "Fontes consultadas" section, list every source used with the consultation date and what it confirmed. This lets a future pass re-verify stale data.

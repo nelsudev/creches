@@ -71,4 +71,6 @@ Fontes consultadas em 2026-07-30:
 
 ## Estado atual
 
-Levantamento de fontes e regras concluído (issues #1, #2). Ainda sem dados de creches recolhidos — próximo passo é o levantamento por zona (Trofa, Matosinhos, Porto/Ramalde).
+Os critérios obrigatórios, recomendados e opcionais, a hierarquia de fontes e a separação entre pesquisa, chamada e visita estão documentados em [`docs/criterios-pesquisa.md`](docs/criterios-pesquisa.md).
+
+O levantamento inicial de Trofa, Matosinhos e Porto/Ramalde está criado. As fases seguintes confirmam por telefone vagas/preços e registam visitas presenciais.

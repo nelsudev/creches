@@ -9,20 +9,34 @@ Preencher todos os campos possíveis; usar "?" onde não há informação confir
 
 - **Concelho/Freguesia:**
 - **Morada completa:**
+- **Nome comercial / entidade proprietária:**
 - **Contactos:** telefone / email / website
 - **Público/Privado/Rede Solidária:**
+- **Autorização / capacidade autorizada:**
 - **Protocolos:** (Creche Feliz, IPSS, Bolsa Social Municipal, Acordo Segurança Social, etc.)
 - **Berçário:** Sim / Não
 - **Faixa etária coberta:**
 - **Preço:** (valor mensal ou "Grátis — Creche Feliz"; indicar se há mensalidades extra: alimentação, prolongamento, seguro)
 - **Horário de funcionamento:**
+- **Encerramento anual / pausas:**
 - **Capacidade / vagas (se conhecido):**
+- **Candidatura / renovação:** canal, datas, critérios de prioridade e posição na lista
+
+## Qualidade e adequação
+
+- **Equipa / rácio por sala:**
+- **Projeto pedagógico / rotina:**
+- **Alimentação / alergias:**
+- **Espaço exterior / segurança:**
+- **Inclusão / necessidades específicas:**
+- **Deslocação / estacionamento:**
+- **Continuidade para pré-escolar:**
 
 ## Fontes consultadas
 
 Listar cada fonte usada para confirmar os dados acima, com data da consulta.
 
-- [Nome da fonte](URL) — consultado em AAAA-MM-DD — confirma: (ex: "público/privado", "protocolo Creche Feliz")
+- [Nome da fonte](URL) — consultado em AAAA-MM-DD — confiança: alta/média/baixa — confirma: (ex: "público/privado", "protocolo Creche Feliz")
 
 ## Histórico de visitas
 
