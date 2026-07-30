@@ -40,6 +40,22 @@ Fontes consultadas em 2026-07-30:
 - [Programa Creche Feliz: como funciona, quem tem direito e como pedir — e-Konomista](https://www.e-konomista.pt/programa-creche-feliz/)
 - [Rede de Creches Gratuitas — seg-social.pt](https://www.seg-social.pt/rede-de-creches-gratuitas)
 
+## Como comparar preço entre redes
+
+O preço de uma creche **não é comparável diretamente entre redes** sem saber qual mecanismo de cálculo se aplica. Ao preencher o campo "Preço" numa ficha, indicar sempre qual dos casos abaixo se aplica:
+
+- **Creche Feliz (Grátis)** — se a criança nasceu a partir de 2021-09-01 e a creche está na bolsa aderente (pública, IPSS/solidária, ou privada aderente), a frequência é gratuita: inclui alimentação, atividades, seguro, inscrição e prolongamento. Registar como `Grátis — Creche Feliz`.
+- **IPSS/rede solidária (fora do Creche Feliz, ou crianças nascidas antes de 2021-09-01)** — a mensalidade é uma **comparticipação familiar** calculada por escalões, não um valor fixo: aplica-se uma percentagem ao rendimento per capita do agregado (RC = rendimento líquido do agregado ÷ nº de membros), com a percentagem a subir por escalão à medida que o RC aumenta (referências encontradas variam entre ~14% no escalão mais baixo e podem ultrapassar 50% nos escalões mais altos, com um mínimo mensal definido e um máximo que cada instituição fixa no seu regulamento interno). **Os valores exatos por escalão variam por fonte e por regulamento interno de cada IPSS — não assumir uma tabela única; confirmar sempre com a instituição.**
+- **Pública/municipal** — segue lógica semelhante de comparticipação por escalão de rendimento, gerida pelo município ou Segurança Social.
+- **Privada (não aderente)** — mensalidade fixa definida pela própria instituição, sem relação com o rendimento; perguntar sempre o que está incluído (alimentação, prolongamento, seguro, matrícula) porque estes custos são frequentemente à parte.
+
+Ao registar o preço numa ficha, escrever sempre a que caso corresponde (ex: `"€320/mês (comparticipação, escalão a confirmar)"` ou `"€280/mês fixo, + €15 seguro anual"`), não apenas um número solto.
+
+Fontes consultadas em 2026-07-30:
+- [Cálculo de mensalidade das IPSS — De Mãe para Mãe](https://demaeparamae.pt/forum/calculo-mensalidade-ipss-2)
+- [Calculadora de Comparticipação IPSS — Skolvi](https://www.skolvi.com/pt/calculadora-creche)
+- [Nota Rápida — Gratuitidade das Creches, planapp.gov.pt](https://www.planapp.gov.pt/wp-content/uploads/2023/02/NR_11_Creches_01FEV.pdf)
+
 ## Estado atual
 
 Levantamento de fontes e regras concluído (issues #1, #2). Ainda sem dados de creches recolhidos — próximo passo é o levantamento por zona (Trofa, Matosinhos, Porto/Ramalde).
