@@ -1,0 +1,122 @@
+name: Processar decisão de creche
+
+on:
+  issue_comment:
+    types: [created]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: creche-decision-writes
+  cancel-in-progress: false
+
+jobs:
+  decide:
+    if: >-
+      github.event.issue.pull_request == null &&
+      contains(github.event.issue.labels.*.name, 'decisao:pendente') &&
+      contains(fromJSON('["OWNER","MEMBER","COLLABORATOR"]'), github.event.comment.author_association)
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Interpretar comentário
+        id: command
+        env:
+          COMMENT_BODY: ${{ github.event.comment.body }}
+        run: |
+          decision="$(printf '%s' "$COMMENT_BODY" | tr '[:upper:]' '[:lower:]' | xargs)"
+          if [ "$decision" = "aceite" ] || [ "$decision" = "rejeitado" ]; then
+            echo "handled=true" >> "$GITHUB_OUTPUT"
+            echo "decision=$decision" >> "$GITHUB_OUTPUT"
+          else
+            echo "handled=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Obter repositório
+        if: steps.command.outputs.handled == 'true'
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Configurar Node.js
+        if: steps.command.outputs.handled == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Aplicar e publicar decisão
+        if: steps.command.outputs.handled == 'true'
+        id: apply
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          DECISION: ${{ steps.command.outputs.decision }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
+          node scripts/decision/process.mjs \
+            --issue "$ISSUE_NUMBER" \
+            --decision "$DECISION" \
+            > decision-result.json \
+            2> decision-error.txt
+          commit_message="$(node -e "const fs=require('fs'); const r=JSON.parse(fs.readFileSync('decision-result.json','utf8')); process.stdout.write(r.commitMessage)")"
+          git add -- creches.md fichas
+          if git diff --cached --quiet; then
+            printf '%s\n' "O processador não produziu alterações." > decision-error.txt
+            exit 1
+          fi
+          git commit -m "$commit_message"
+          git push origin HEAD:main
+          echo "sha=$(git rev-parse --short HEAD)" >> "$GITHUB_OUTPUT"
+
+      - name: Marcar decisão concluída
+        if: steps.command.outputs.handled == 'true' && steps.apply.outcome == 'success'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          DECISION: ${{ steps.command.outputs.decision }}
+          COMMIT_SHA: ${{ steps.apply.outputs.sha }}
+        run: |
+          terminal_label="decisao:$DECISION"
+          gh issue edit "$ISSUE_NUMBER" \
+            --remove-label "decisao:pendente" \
+            --add-label "$terminal_label"
+          gh issue edit "$ISSUE_NUMBER" --remove-label "decisao:erro" || true
+          gh issue comment "$ISSUE_NUMBER" --body-file - <<EOF
+          ## Decisão processada
+
+          A decisão **$DECISION** foi escrita no repositório.
+
+          - Commit: \`$COMMIT_SHA\`
+          - Issue encerrada automaticamente.
+          EOF
+          gh issue close "$ISSUE_NUMBER" --reason completed
+
+      - name: Assinalar erro
+        if: steps.command.outputs.handled == 'true' && steps.apply.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          gh issue edit "$ISSUE_NUMBER" \
+            --remove-label "decisao:pendente" \
+            --add-label "decisao:erro"
+          if [ -s decision-error.txt ]; then
+            error="$(head -c 2000 decision-error.txt)"
+          else
+            error="A execução falhou antes de produzir um diagnóstico."
+          fi
+          gh issue comment "$ISSUE_NUMBER" --body-file - <<EOF
+          ## Não foi possível processar a decisão
+
+          A issue ficou aberta para correção.
+
+          \`\`\`text
+          $error
+          \`\`\`
+          EOF
